@@ -11,8 +11,7 @@
 
 ### Learning Materials ###
 #### Textbook ####
-[Operating System Concepts, 9/E, International Student Version]
-(http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781118093757&orderClick=LAG&Kc=) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne  
+[Operating System Concepts, 9/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781118093757&orderClick=LAG&Kc=) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne  
 You can find this book in Handong Book on campus. It is **mandatory** for each class participants to equip this main textbook: it will be assumed that each student has a textbook for doing homework, programming assignments, etc.
 
 #### Online Channels ####
