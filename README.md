@@ -1,10 +1,10 @@
 # Operating System, 2019 Spring
 
-* Meetings: 
+* Meetings:
   - ITP30002-02 :clock1: Tue/Fri, 1PM-2:15PM :door: OH 401
   - ECE30021-02 :clock2: Tue/Fri, 2:30PM-3:45PM :door: OH 401
 * Instructor: Shin Hong https://hongshin.github.io :email: hongshin@handong.edu :door: OH 313
-* Teaching assistants 
+* Teaching assistants
   - Jeewoong Kim :email: jeewoong@handong.edu https://arise.handong.edu
   - Juyoung Jeon :email: 21931009@handong.edu https://arise.handong.edu
 * Class polices: [POLICY.md](POLICY.md)
@@ -29,3 +29,7 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 * For studying Linux programming
     - GNU C library https://www.gnu.org/software/libc/manual/
     - Advanced Linux programming http://www.makelinux.net/alp/
+
+#### Lecture Notes ####
+* [Course overview (Feb 26)](notes/syllabus.pdf)
+* [(WIP) Ch. 1. Introduction (Feb 26)](notes/ch1-intro-wip.pdf)
