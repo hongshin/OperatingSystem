@@ -1,8 +1,8 @@
 # Operating System, 2019 Spring
 
 * Meetings: 
-  - ECE30021-02 :clock1: Tue/Fri, 1PM-2:15PM :door: OH 401
-  - ITP30002-02 :clock2: Tue/Fri, 2:30PM-3:45PM :door: OH 401
+  - ITP30002-02 :clock1: Tue/Fri, 1PM-2:15PM :door: OH 401
+  - ECE30021-02 :clock2: Tue/Fri, 2:30PM-3:45PM :door: OH 401
 * Instructor: Shin Hong https://hongshin.github.io :email: hongshin@handong.edu :door: OH 313
 * Teaching assistants 
   - Jeewoong Kim :email: jeewoong@handong.edu https://arise.handong.edu
@@ -16,8 +16,8 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 
 #### Online Channels ####
 * Piazza for news and Q&A
-    - ECE30021-02 https://piazza.com/configure-classes/spring2019/ece30021
     - ITP30002-02 https://piazza.com/configure-classes/spring2019/itp3000202
+    - ECE30021-02 https://piazza.com/configure-classes/spring2019/ece30021
 * [Hisnet](http://hisnet.handong.edu) for online attendance check & homework/assignment submission
 * This webpage for lecture note, resource for homework, etc.
 
@@ -28,4 +28,4 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
     - Practical Unix @ Stanford Univ. https://practicalunix.org/
 * For studying Linux programming
     - GNU C library https://www.gnu.org/software/libc/manual/
-    - Advanced Linux programming http://www.google.com
+    - Advanced Linux programming http://www.makelinux.net/alp/
