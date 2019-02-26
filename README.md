@@ -26,3 +26,6 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
     - The Linux command line by William Shotts http://linuxcommand.org/tlcl.php
     - Linux command line basis @ Udacity https://www.udacity.com/course/linux-command-line-basics--ud595
     - Practical Unix @ Stanford Univ. https://practicalunix.org/
+* For studying Linux programming
+    - GNU C library https://www.gnu.org/software/libc/manual/
+    - Advanced Linux programming http://www.google.com
