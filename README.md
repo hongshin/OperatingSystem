@@ -32,4 +32,4 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 
 #### Lecture Notes ####
 * [Course overview (Feb 26)](notes/syllabus.pdf)
-* [(WIP) Ch. 1. Introduction (Feb 26)](notes/ch1-intro-wip.pdf)
+* [(WIP) Ch. 1. Introduction (Feb 26, Mar 5)](notes/ch1-intro-wip.pdf)
