@@ -33,4 +33,4 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 #### Lecture Notes ####
 * [Course overview (Feb 26)](notes/syllabus.pdf)
 * [Ch. 1. Introduction (Mar 5, 8, 12)](notes/ch1-intro.pdf)
-* [Ch. 2. System Structure (Mar 15) (WIP)](notes/ch2-os-structure.pdf)
+* [Ch. 2. System Structure (Mar 15) (WIP)](notes/ch2-os-structure-wip.pdf)
