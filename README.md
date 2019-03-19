@@ -34,3 +34,6 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 * [Course overview (Feb 26)](notes/syllabus.pdf)
 * [Ch. 1. Introduction (Mar 5, 8, 12)](notes/ch1-intro.pdf)
 * [Ch. 2. System Structure (Mar 15) (WIP)](notes/ch2-os-structure-wip.pdf)
+
+#### Assignments ####
+* PA1. LKM Rootkit (by 1 Apr) [[desc](assignments/pa1)] [[examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA1)]
