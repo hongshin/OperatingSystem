@@ -7,11 +7,12 @@
 * Teaching assistants
   - Jeewoong Kim :email: jeewoong@handong.edu https://arise.handong.edu
   - Juyoung Jeon :email: 21931009@handong.edu https://arise.handong.edu
+  - Hyerin Lim :email: 21600602@handong.edu
 * Class polices: [POLICY.md](POLICY.md)
 
 ### Learning Materials ###
 #### Textbook ####
-[Operating System Concepts, 9/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781118093757&orderClick=LAG&Kc=) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne  
+[Operating System Concepts, 9/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781118093757&orderClick=LAG&Kc=) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne.
 You can find this book in Handong Book on campus. It is **mandatory** for each class participants to equip this main textbook: it will be assumed that each student has a textbook for doing homework, programming assignments, etc.
 
 #### Online Channels ####
@@ -36,4 +37,4 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 * [Ch. 2. System Structure (Mar 15) (WIP)](notes/ch2-os-structure-wip.pdf)
 
 #### Assignments ####
-* PA1. LKM Rootkit (by 1 Apr) [[desc](assignments/pa1)] [[examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA1)]
+* PA1. LKM Rootkit (by 1 Apr) [[desc](assignments/pa1.pdf)] [[examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA1)]
