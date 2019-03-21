@@ -37,7 +37,7 @@ each student has a textbook for doing homework, programming assignments, etc.
 * [Course overview (Feb 26)](notes/syllabus.pdf)
 * [Chapter 1. Introduction (Mar 5, Mar 8, Mar 12)](notes/ch1-intro.pdf) [[example](https://github.com/hongshin/OperatingSystem/tree/sysprog/Syscall)]
 * [Chapter 2. System Structure (Mar 15, Mar 18) (WIP)](notes/ch2-os-structure.pdf)
-* [Chapter 3. Process (Mar 22) (WIP)](notes/ch3-process-wip.pdf) [[exampe](https://github.com/hongshin/OperatingSystem/tree/master/Fork)]
+* [Chapter 3. Process (Mar 22) (WIP)](notes/ch3-process-wip.pdf) [[exampe](https://github.com/hongshin/OperatingSystem/tree/sysprog/Fork)]
 
 #### Assignments ####
 * PA1. LKM Rootkit (due on Apr 1) [[desc](assignments/pa1.pdf)] [[examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA1)]
