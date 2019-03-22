@@ -36,7 +36,7 @@ each student has a textbook for doing homework, programming assignments, etc.
 #### Lecture Notes ####
 * [Course overview (Feb 26)](notes/syllabus.pdf)
 * [Chapter 1. Introduction (Mar 5, Mar 8, Mar 12)](notes/ch1-intro.pdf)
-* [Chapter 2. System Structure (Mar 15, Mar 18) (WIP)](notes/ch2-os-structure.pdf)
+* [Chapter 2. System Structure (Mar 15, Mar 18)](notes/ch2-os-structure.pdf)
 * [Chapter 3. Process (Mar 22) (WIP)](notes/ch3-process-wip.pdf)
 
 #### Assignments ####
