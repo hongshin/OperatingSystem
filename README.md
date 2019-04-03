@@ -34,10 +34,15 @@ each student has a textbook for doing homework, programming assignments, etc.
     - Advanced Linux programming http://www.makelinux.net/alp/
 
 #### Lecture Notes ####
-* [Course overview (Feb 26)](notes/syllabus.pdf)
-* [Chapter 1. Introduction (Mar 5, Mar 8, Mar 12)](notes/ch1-intro.pdf) [[example](https://github.com/hongshin/OperatingSystem/tree/sysprog/Syscall)]
-* [Chapter 2. System Structure (Mar 15, Mar 18)](notes/ch2-os-structure.pdf)
-* [Chapter 3. Process (Mar 22) (WIP)](notes/ch3-process-wip.pdf) [[exampe](https://github.com/hongshin/OperatingSystem/tree/sysprog/Fork)]
+* [Course overview](notes/syllabus.pdf)
+* [Chapter 1. Introduction](notes/ch1-intro.pdf)
+  - [Syscall examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/Syscall)
+* [Chapter 2. System Structure](notes/ch2-os-structure.pdf)
+* [Chapter 3. Process](notes/ch3-process.pdf)
+  - [Fork examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/Fork)
+  - [IPC examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/IPC)
+* [Chapter 3. Process](notes/ch4-threading-wip.pdf)
+  - [PThread examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/Pthread)
 
 #### Assignments ####
 * PA1. LKM Rootkit (due on Apr 1) [[desc](assignments/pa1.pdf)] [[examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA1)]
