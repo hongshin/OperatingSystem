@@ -15,7 +15,7 @@ main() {
 	if (hello_pid == 0) { /* child */
 		printf(" Begin %d\n", getpid()) ;
 
-		execl("./printsleep", "printsleep", "Child1", "0", (char *) 0x0) ;
+		execl("./printsleep", "printsleep", "Hello", (char *) 0x0) ;
 	}
 	else { /* parent */
 		printf("Process %d spawned process %d\n", curr_pid, hello_pid) ;
@@ -23,18 +23,19 @@ main() {
 		goodbye_pid = fork() ;		
 		if (goodbye_pid == 0) { /* child */
 			printf(" Begin %d\n", getpid()) ;
-			execl("./printsleep", "printsleep", "Child2", "0", (char *) 0x0) ;
+			execl("./printsleep", "printsleep", "Goodbye", "0", (char *) 0x0) ;
 		}
 		else { /* parent */
 			pid_t term_pid ;
 			int exit_code ;
 
-			printf("Process %d spawned process %d\n", curr_pid, hello_pid) ;
+			printf("Process %d spawned process %d\n", curr_pid, goodbye_pid) ;
 
 			term_pid = wait(&exit_code) ;
 			printf("Process %d is finisehd with exit code %d\n", term_pid, WEXITSTATUS(exit_code)) ;
 			term_pid = wait(&exit_code) ;
 			printf("Process %d is finisehd with exit code %d\n", term_pid, WEXITSTATUS(exit_code)) ;
+
 		}
 	}
 	printf("End\n") ;
