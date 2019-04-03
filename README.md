@@ -41,7 +41,7 @@ each student has a textbook for doing homework, programming assignments, etc.
 * [Chapter 3. Process](notes/ch3-process.pdf)
   - [Fork examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/Fork)
   - [IPC examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/IPC)
-* [Chapter 3. Process](notes/ch4-threading-wip.pdf)
+* [Chapter 4. Multithreaded Programming](notes/ch4-threading-wip.pdf)
   - [PThread examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/Pthread)
 
 #### Assignments ####
