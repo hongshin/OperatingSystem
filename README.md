@@ -30,8 +30,10 @@ each student has a textbook for doing homework, programming assignments, etc.
     - Linux command line basis @ Udacity https://www.udacity.com/course/linux-command-line-basics--ud595
     - Practical Unix @ Stanford Univ. https://practicalunix.org/
 * For studying Linux programming
+    - Linux man pages https://linux.die.net/man/
     - GNU C library https://www.gnu.org/software/libc/manual/
     - Advanced Linux programming http://www.makelinux.net/alp/
+    - The Linux Programming Interface http://man7.org/tlpi/code/online/all_files_by_chapter.html
 
 #### Lecture Notes ####
 * [Course overview](notes/syllabus.pdf)
@@ -46,3 +48,4 @@ each student has a textbook for doing homework, programming assignments, etc.
 
 #### Assignments ####
 * PA1. LKM Rootkit (due on Apr 1) [[desc](assignments/pa1.pdf)] [[examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA1)]
+* PA1. InstaGrap (due on Apr 26) [[desc](assignments/pa2.pdf)] 
