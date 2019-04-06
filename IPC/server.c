@@ -11,7 +11,7 @@ void
 child_proc(int conn)
 {
 	char buf[1024] ;
-	char * data = 0x0 ;
+	char * data = 0x0, * orig = 0x0 ;
 	int len = 0 ;
 	int s ;
 
@@ -31,13 +31,14 @@ child_proc(int conn)
 	}
 	printf(">%s\n", data) ;
 	
+	orig = data;
 	while (len > 0 && (s = send(conn, data, len, 0)) > 0) {
 		data += s ;
 		len -= s ;
 	}
 	shutdown(conn, SHUT_WR) ;
-	if (data != 0x0) 
-		free(data) ;
+	if (orig != 0x0) 
+		free(orig) ;
 }
 
 int 
