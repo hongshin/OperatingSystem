@@ -31,7 +31,7 @@ child_proc(int conn)
 	}
 	printf(">%s\n", data) ;
 	
-	orig = data;
+	orig = data ;
 	while (len > 0 && (s = send(conn, data, len, 0)) > 0) {
 		data += s ;
 		len -= s ;
