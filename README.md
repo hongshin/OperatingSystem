@@ -45,7 +45,8 @@ each student has a textbook for doing homework, programming assignments, etc.
   - [IPC examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/IPC)
 * [Chapter 4. Multithreaded Programming](notes/ch4-threading-wip.pdf)
   - [PThread examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/Pthread)
+* [Chapter 5. Process Scheduling](notes/ch5-process_scheduling.pdf)
 
 #### Assignments ####
 * PA1. LKM Rootkit (due on Apr 1) [[desc](assignments/pa1.pdf)] [[examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA1)]
-* PA2. InstaGrap (due on Apr 26) [[desc](assignments/pa2.pdf)] 
+* PA2. InstaGrap (due on Apr 26) [[desc](assignments/pa2.pdf)]
