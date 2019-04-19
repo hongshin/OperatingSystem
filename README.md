@@ -1,6 +1,6 @@
 # Operating System, 2019 Spring
 
-* Meetings:
+* Meetings
   - ITP30002-02 :clock1: Tue/Fri, 1PM-2:15PM :door: OH 401
   - ECE30021-02 :clock2: Tue/Fri, 2:30PM-3:45PM :door: OH 401
 * Instructor: Shin Hong https://hongshin.github.io :email: hongshin@handong.edu :door: OH 313
@@ -47,6 +47,7 @@ each student has a textbook for doing homework, programming assignments, etc.
   - [PThread examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/Pthread)
 * [Chapter 5. Process Scheduling](notes/ch5-process_scheduling.pdf)
 * [Chapter 6. Synchronization](notes/ch6-synchronization-wip.pdf)
+* Midterm exam (Apr 19) [[pdf]](notes/midterm.pdf)
 
 #### Assignments ####
 * PA1. LKM Rootkit (due on Apr 1) [[desc](assignments/pa1.pdf)] [[examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA1)]
