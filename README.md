@@ -49,5 +49,5 @@ each student has a textbook for doing homework, programming assignments, etc.
 * [Chapter 6. Synchronization](notes/ch6-synchronization-wip.pdf)
 
 #### Assignments ####
-* PA1. LKM Rootkit (due on Apr 1) [[desc](assignments/pa1.pdf)] [[examples](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA1)]
-* PA2. InstaGrap (due on Apr 26) [[desc](assignments/pa2.pdf)]
+* PA1. LKM Rootkit (due on Apr 1) [[desc]](assignments/pa1.pdf)] [[examples]](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA1)
+* PA2. InstaGrap (due on Apr 26) [[desc]](assignments/pa2.pdf) [[sample problem]](assignments/problem-description.pdf) [[testcases]](assignments/testcases.zip)
