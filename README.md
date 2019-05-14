@@ -53,5 +53,5 @@ each student has a textbook for doing homework, programming assignments, etc.
   - [Build](notes/build.pdf)
 
 #### Assignments ####
-* PA1. LKM Rootkit (due on Apr 1) [[desc]](assignments/pa1.pdf)] [[examples]](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA1)
+* PA1. LKM Rootkit (due on Apr 1) [[desc]](assignments/pa1.pdf) [[examples]](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA1)
 * PA2. InstaGrap (due on Apr 26) [[desc]](assignments/pa2.pdf) [[sample problem]](assignments/problem-description.pdf) [[testcases]](assignments/testcases.zip)
