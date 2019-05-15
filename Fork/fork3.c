@@ -13,8 +13,6 @@ main()
 
 	child_pid = fork() ;
 	if (child_pid == 0) {
-		char * args[] = {"hello", 0x0} ;
-
 		int fd = open("hello.out", O_WRONLY | O_CREAT, 0644) ;
 		dup2(fd, 1) ;
 		close(fd) ;
