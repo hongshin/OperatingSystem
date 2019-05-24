@@ -49,8 +49,9 @@ each student has a textbook for doing homework, programming assignments, etc.
 * [Chapter 6. Synchronization](notes/ch6-synchronization-rev.pdf)
 * Midterm exam (Apr 19) [ [pdf] ](notes/midterm.pdf)
 * [Deadlock detection](notes/deadlock.pdf)
-* [Chapter 8. Memory Management](notes/ch7-memory-management.pdf)
+* [Chapter 8. Memory Management](notes/ch8-memory-management.pdf)
   - [Build](notes/build.pdf)
+* [Chapter 9. Virtual Memory](notes/ch9-vm.pdf)
 
 #### Assignments ####
 * PA1. LKM Rootkit (due on Apr 1) [[desc]](assignments/pa1.pdf) [[examples]](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA1)
