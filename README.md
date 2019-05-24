@@ -49,7 +49,7 @@ each student has a textbook for doing homework, programming assignments, etc.
 * [Chapter 6. Synchronization](notes/ch6-synchronization-rev.pdf)
 * Midterm exam (Apr 19) [ [pdf] ](notes/midterm.pdf)
 * [Deadlock detection](notes/deadlock.pdf)
-* [Chapter 8. Memory Management](notes/memory.pdf)
+* [Chapter 8. Memory Management](notes/ch7-memory-management.pdf)
   - [Build](notes/build.pdf)
 
 #### Assignments ####
