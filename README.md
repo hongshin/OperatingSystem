@@ -57,3 +57,4 @@ each student has a textbook for doing homework, programming assignments, etc.
 * PA1. LKM Rootkit (due on Apr 1) [[desc]](assignments/pa1.pdf) [[examples]](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA1)
 * PA2. InstaGrap (due on Apr 26) [[desc]](assignments/pa2.pdf) [[sample problem]](assignments/problem-description.pdf) [[testcases]](assignments/testcases.zip)
 * PA3. Dynamic Deadlock Detection and Prediction (due on May 31) [[desc]](assignments/pa3.pdf) [[runtime interpositioning]](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA3/interpositioning) [[deadlock examples]](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA3/examples)
+* PA4. Smalloc: Simple Dynamic Memory Allocation Library (due on June 15) [[desc]](assignments/pa4.pdf) [[smalloc-1.0]](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA4)
