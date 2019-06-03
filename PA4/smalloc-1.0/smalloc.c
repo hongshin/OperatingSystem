@@ -3,6 +3,8 @@
 #include "smalloc.h" 
 
 sm_container_ptr sm_first = 0x0 ;
+sm_container_ptr sm_last = 0x0 ;
+sm_container_ptr sm_unused_containers = 0x0 ;
 
 void sm_container_split(sm_container_ptr hole, size_t size)
 {
@@ -13,6 +15,9 @@ void sm_container_split(sm_container_ptr hole, size_t size)
 	remainder->status = Unused ;
 	remainder->next = hole->next ;
 	hole->next = remainder ;
+
+	if (hole == sm_last)
+		sm_last = remainder ;
 }
 
 void * sm_retain_more_memory(int size)
@@ -61,8 +66,14 @@ void * smalloc(size_t size)
 
 		if (sm_first == 0x0) {
 			sm_first = hole ;
+			sm_last = hole ;
+			hole->next = 0x0 ;
 		}
-		hole->next = 0x0 ;
+		else {
+			sm_last->next = hole ;
+			sm_last = hole ;
+			hole->next = 0x0 ;
+		}
 	}
 	sm_container_split(hole, size) ;
 	hole->dsize = size ;
