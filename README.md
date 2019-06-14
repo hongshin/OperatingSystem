@@ -53,6 +53,7 @@ each student has a textbook for doing homework, programming assignments, etc.
   - [Build](notes/build.pdf)
 * [Chapter 9. Virtual Memory](notes/ch9-vm.pdf)
 * [Chapter 10. File System](notes/ch10-file-system.pdf)
+* Final exam (June 14) [ [pdf] ](notes/final.pdf)
 
 #### Assignments ####
 * PA1. LKM Rootkit (due on Apr 1) [[desc]](assignments/pa1.pdf) [[examples]](https://github.com/hongshin/OperatingSystem/tree/sysprog/PA1)
