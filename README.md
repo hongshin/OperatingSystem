@@ -1,15 +1,15 @@
 # Operating System, 2020 Spring
 
-#### Class Attributes ####
+### Class Attributes ###
 
-* Meeting Time & Location: 
+* Meeting Time & Location
   * ITP30002-01: Tue/Fri, 10AM @ NTH 311
   * ITP30002-02: Tue/Fri, 1 PM @ NTH 214
 * Instructor: Shin Hong https://hongshin.github.io :e-mail: hongshin@handong.edu :door: OH 313
 * Teaching Assistants: To be announced
 * Class Policies: [POLICY.md](https://github.com/hongshin/OperatingSystem/blob/master/POLICY.md)
 
-#### Study Materials
+### Study Materials ###
 
 **Main textbooks** : this year we are using **two main textbooks**
 
