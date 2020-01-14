@@ -1,20 +1,20 @@
 # Operating System, 2020 Spring
 
-#### Class Attributes ####
+### Class Attributes ###
 
-* Meeting Time & Location: 
+* Meeting Time & Location
   * ITP30002-01: Tue/Fri, 10AM @ NTH 311
   * ITP30002-02: Tue/Fri, 1 PM @ NTH 214
 * Instructor: Shin Hong https://hongshin.github.io :e-mail: hongshin@handong.edu :door: OH 313
 * Teaching Assistants: To be announced
 * Class Policies: [POLICY.md](https://github.com/hongshin/OperatingSystem/blob/master/POLICY.md)
 
-#### Study Materials
+### Study Materials ###
 
 **Main textbooks** : this year we are using **two main textbooks**
 
 * [Operating System Concepts, 9/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781118093757&orderClick=LAG&Kc=) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. You can find this book in Handong Book on campus. It is mandatory for each class participant to equip this main textbook: it will be assumed that each student has a textbook for doing homework, programming assignments, etc.
-* :bulb: [Operating Systems: Three Easy Pieces Version 1.00](http://pages.cs.wisc.edu/~remzi/OSTEP/). The online version of this textbook is free and available to everyone. ​Reading list will cover many chapters of this textbook.
+* [Operating Systems: Three Easy Pieces Version 1.00](http://pages.cs.wisc.edu/~remzi/OSTEP/) :bulb:. The online version of this textbook is free and available to everyone. ​Reading list will cover many chapters of this textbook.
 
 **Online Channels**
 
