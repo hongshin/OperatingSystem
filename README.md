@@ -13,7 +13,7 @@
 **Main textbooks** : this year we are using **two main textbooks**
 
 * [Operating System Concepts, 9/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781118093757&orderClick=LAG&Kc=) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. You can find this book in Handong Book on campus. It is mandatory for each class participant to equip this main textbook: it will be assumed that each student has a textbook for doing homework, programming assignments, etc.
-* [Operating Systems: Three Easy Pieces Version 1.00](http://pages.cs.wisc.edu/~remzi/OSTEP/) :bulb:. The online version of this textbook is free and available to everyone. ​Reading list will cover many chapters of this textbook.
+* [Operating Systems: Three Easy Pieces, Version 1.00](http://pages.cs.wisc.edu/~remzi/OSTEP/) :bulb:. The online version of this textbook is free and available to everyone. ​Reading list will cover many chapters of this textbook.
 
 **Online Channels**
 * Web Forum: enrollees will be invited to the private web forum (run by Google Groups, not Piazza)   
