@@ -1,7 +1,6 @@
 # Operating System, 2020 Spring
 
 ### Class Attributes ###
-
 * Meeting Time & Location
   * ITP30002-01: Tue/Fri, 10AM @ NTH 311
   * ITP30002-02: Tue/Fri, 1 PM @ NTH 214
@@ -17,11 +16,10 @@
 * [Operating Systems: Three Easy Pieces Version 1.00](http://pages.cs.wisc.edu/~remzi/OSTEP/) :bulb:. The online version of this textbook is free and available to everyone. ​Reading list will cover many chapters of this textbook.
 
 **Online Channels**
-
-* To be announced
+* Web Forum: enrollees will be invited to the private web forum (run by Google Groups, not Piazza)   
+* Administrative Request: https://forms.gle/mizKR8avWjog47Em9 (require Handong Sign-in)
 
 **Useful Links**
-
 - For studying Linux command lines
   - The Linux command line by William Shotts http://linuxcommand.org/tlcl.php
   - Linux command line basis @ Udacity https://www.udacity.com/course/linux-command-line-basics--ud595
@@ -33,7 +31,6 @@
   - The Linux Programming Interface http://man7.org/tlpi/code/online/all_files_by_chapter.html
 
 #### Reading List & Lecture Note 
-
 * To be updated
 * 2019 course website: https://github.com/hongshin/OperatingSystem/tree/2019spring
 
