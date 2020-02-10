@@ -29,6 +29,7 @@
   - GNU C library https://www.gnu.org/software/libc/manual/
   - Advanced Linux programming http://www.makelinux.net/alp/
   - The Linux Programming Interface http://man7.org/tlpi/code/online/all_files_by_chapter.html
+  - Unix Application and System Programming by Prof. Stewart Weiss  http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php
 
 #### Reading List & Lecture Note 
 * To be updated
