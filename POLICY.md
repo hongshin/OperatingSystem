@@ -2,35 +2,34 @@ Class Policy
 =====
 ### Communication ###
 #### English ####
-English is the official language in the class. In the 100% English class,
-all students are obligated to produce all results in English, including homework, assignment report, answer
-sheet of midterm/final exam. Note that non-English descriptions will be excluded
-in all kinds of evaluations of your submissions.
+English is the official language of the class. As for all 100% English class,
+students are obligated to produce all results in English, including homework, 
+assignment report, answers of midterm/final exam. Note that non-English 
+descriptions will be excluded in all kinds of evaluations.
 
-In meetings, the instructor will use English. It is highly recommended for
+In class meetings, the instructor will use English. It is highly recommended for
 the class participants to use English as well for discussion, yet they are allowed
 to use Korean in asking and answering questions; the instructor will repeat
 Korean sayings in English.
 
-c.f. [Is Handong Global?](http://www.hgupress.com/news/articleView.html?idxno=6078) by Prof. Scott Lincoln
+c.f. [Is Handong Global?  by Prof. Scott Lincoln](http://www.hgupress.com/news/articleView.html?idxno=6078)
 
 #### Contact with Instructor ####
 **Questions**:
-Use Piazza. Put your question as a post with proper tags, by which the question
-and the answers can be shared in the class. For a private e-mail/message,
-the instructor and the TA will not response to a question on the learning material or the meeting.
+Use Piazza. Put your question as a post such that the question and answers can be shared in the class. 
+For a private e-mail/message, the instructor and the TA will not response to a question.
 
 **Administrative requests**:
 Use Piazza for a claim of missing attendance checks and for submitting
 the proof of an approved absence in order to make your message tracable.
 
 **Personal meeting**:
-It is possible to have a meeting in person with the instructor to have academic
-advices. Send an e-mail to hongshin@handong.edu first to make an appointment.
-Note that a personal meeting can be arranged only with a prior appointment via e-mail.
+It is possible to request to have a meeting in person with the instructor to have academic advices. 
+Submit the following online form to arrange a meeting: https://forms.gle/1FyiuSNfyGcFPgdq8
 
 **Improper solicitation**:
-All kinds of improper soliciatations are strictly forbidden as declared in the Improper Solicitation and Graft Act (aka. Kim Young-ran Act), including the following cases:
+All kinds of improper soliciatations are strictly forbidden as declared in the Improper Solicitation 
+and Graft Act (aka. Kim Young-ran Act), including the following cases:
 :
 1. Students cannot give a gift in any form to the instructor or the TA (even a can of coffee)
    while they are officially students in Handong
@@ -41,7 +40,7 @@ Any violation of these will be reported to the Acaemic Affair Team for treatment
 (1) [학교에서 알아야 할 김영란법 Q&A](http://tong.joins.com/archives/32930), (2) [학생들도 "청탁 마세요"](http://www.kunews.ac.kr/news/articleView.html?idxno=23393)
 
 #### Teaching assistant ####
-TA in this class is to assist the instructor to conduct the meetings, to support students for accomplishing assignments, and to process the educational materials such as grading exam, quizes, and assignments. In addition to this, TA offers *Help Hour*, a 1-hour weekly session for Q&A on the class material. Note that students cannot ask questions beyond the class material or ask personal help outside of the help hour.
+TAs in this class is to assist the instructor to conduct the meetings, to support students for accomplishing assignments, and to process the educational materials such as grading exam, quizes, and assignments. In addition to this, TA offers *Help Hour*, a 1-hour weekly session for Q&A on the class material. Note that students cannot ask questions beyond the class material or ask personal help outside of the help hour.
 
 ### Meeting Attendance ###
 * In every meeting, each student should declare his/her attendance via online system (due to the rule by the Ministry of Education of the Korea government).
@@ -62,13 +61,13 @@ TA in this class is to assist the instructor to conduct the meetings, to support
       10. 기타 총장이 허가하는 경우 [해당기간]  
 
   * Proof submission: upload a scanned or photo image of your proof as a private post with the `request` tag
-* A student cannot pass this course (i.e., get 'F') if he/she has more than 7 meetings (>25%). This is very strict rule by the MOE of the Korea government.
+* A student cannot pass this course (i.e., get 'F') if he/she has more than 7 meetings (>25%). This is very strictly policied by the MOE of the Korea government.
 
 ### Failures ###
-Students will be rejected (i.e., get F) without any excuse if you faill into one of the following cases:
+Students will be rejected (i.e., get F) without any excuse if they fall into one of the following cases:
   * Academic dishonesty. Including the followings:
     * To see other's answer or unauthorized materials (including online ones) at an exam, quiz, assignment, etc.
     * To show his/her answer at an exam, quiz, assignment, etc.
     * To fake a point that matters to grading (attendance, discussion, peer evaluation)
-  * Missing more than a quarter of meetings (i.e., >7 meetings) (see the Meeting Attendance part)
+  * Missing more than a quarter of the meetings (i.e., > 7 meetings) (see the Meeting Attendance part)
   * Not taking midterm or final exam
