@@ -19,6 +19,10 @@
 * ITP30002-01: piazza.com/handong/spring2020/itp3000201
 * ITP30002-02: piazza.com/handong/spring2020/itp3000202
 
+**Lecture Notes**
+ - [Course overview](https://github.com/hongshin/OperatingSystem/blob/master/notes/courseoverview.pdf) (Mar 3)
+ - [Introduction (WIP)](https://github.com/hongshin/OperatingSystem/blob/master/notes/introduction.pdf) (Mar 6)
+
 **Useful Links**
 - For studying Linux command lines
   - The Linux command line by William Shotts http://linuxcommand.org/tlcl.php
