@@ -21,7 +21,7 @@
 
 **Lecture Notes**
  - [Course overview](https://github.com/hongshin/OperatingSystem/blob/master/notes/courseoverview.pdf) (Mar 3)
- - [Introduction (WIP)](https://github.com/hongshin/OperatingSystem/blob/master/notes/introduction.pdf) (Mar 6)
+ - [Introduction (WIP)](https://github.com/hongshin/OperatingSystem/blob/master/notes/introduction.pdf) (Mar 6, Mar 10)
 
 **Useful Links**
 - For studying Linux command lines
