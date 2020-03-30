@@ -12,10 +12,11 @@ main()
 	printf("Begin \n") ;
 
 	child_pid = fork() ;
-
 	if (child_pid == 0) {
-		//printf("Hello\n") ;
 		execl("./hello", "hello", (char *) 0x0) ;
 	}
-	printf("End\n") ;
+	else {
+		wait(0x0) ;
+		printf("End\n") ;
+	}
 }

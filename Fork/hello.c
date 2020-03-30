@@ -5,5 +5,4 @@ int
 main()
 {
 	printf("Hello.\n") ;
-//	sleep(2) ;
 }

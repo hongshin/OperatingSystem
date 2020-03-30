@@ -10,11 +10,10 @@ main()
 {
 	pid_t child_pid ;
 
-
 	child_pid = fork() ;
 	if (child_pid == 0) {
 		int fd = open("hello.out", O_WRONLY | O_CREAT, 0644) ;
-		dup2(fd, 1) ;
+		dup2(fd, 1 /* STDOUT*/) ;
 		close(fd) ;
 
 		execl("./hello", "hello", (char *) 0x0) ;
