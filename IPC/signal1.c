@@ -2,9 +2,8 @@
 #include <signal.h>
 #include <stdlib.h>
 
-
 void
-handler(int sig)
+handler (int sig)
 {
 	if (sig == SIGINT) {
 		printf("Do you want to quit?") ;
