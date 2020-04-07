@@ -94,9 +94,11 @@ int __init openhook_init(void) {
 	sctable = (void *) kallsyms_lookup_name("sys_call_table") ;
 
 	orig_sys_open = sctable[__NR_open] ;
+
 	pte = lookup_address((unsigned long) sctable, &level) ;
 	if (pte->pte &~ _PAGE_RW) 
-		pte->pte |= _PAGE_RW ;		
+		pte->pte |= _PAGE_RW ;	
+
 	sctable[__NR_open] = openhook_sys_open ;
 
 	return 0;

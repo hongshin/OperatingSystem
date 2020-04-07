@@ -14,7 +14,8 @@ char * text = 0x0 ;
 static 
 int listps_open(struct inode *inode, struct file *file) {
 	char buf[256] ;
-	struct task_struct *t ;
+
+	struct task_struct * t ;
 	int idx = 0 ;
 
 	text = kmalloc(2048, GFP_KERNEL) ;
@@ -22,6 +23,7 @@ int listps_open(struct inode *inode, struct file *file) {
 
 	for_each_process(t) {
 		sprintf(buf, "%s : %d\n", t->comm, t->pid) ;
+		
 		printk(KERN_INFO "%s", buf) ;
 
 		idx += strlen(buf) ;
@@ -60,17 +62,7 @@ ssize_t listps_read(struct file *file, char __user *ubuf, size_t size, loff_t *o
 static 
 ssize_t listps_write(struct file *file, const char __user *ubuf, size_t size, loff_t *offset) 
 {
-	char buf[128] ;
-
-	if (*offset != 0 || size > 128)
-		return -EFAULT ;
-
-	if (copy_from_user(buf, ubuf, size))
-		return -EFAULT ;
-
-	*offset = strlen(buf) ;
-
-	return *offset ;
+	return 0 ;
 }
 
 static const struct file_operations listps_fops = {

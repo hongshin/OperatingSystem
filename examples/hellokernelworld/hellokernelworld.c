@@ -25,6 +25,7 @@ ssize_t hello_read(struct file *file, char __user *ubuf, size_t size, loff_t *of
 	ssize_t toread ;
 
 	sprintf(buf, "Hello %s from kernel!\n", hello_name) ;
+	"Hello from kernel!"
 
 	if (strlen(buf) >= *offset + size) {
 		toread = size ;
