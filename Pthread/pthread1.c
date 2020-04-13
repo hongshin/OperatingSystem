@@ -7,7 +7,7 @@
 void spin()
 {
 	int i ;
-	for (i = 0 ; i < 100000 ; i++) ;
+	for (i = 0 ; i < 50000 ; i++) ;
 }
 
 void *print_message_function( void *ptr )
@@ -19,7 +19,7 @@ void *print_message_function( void *ptr )
 	for (i = 0 ; i < 10 ; i++)  {
 		printf("%s\n", message) ;
 		//spin() ;
-		//sched_yield() ;
+		sched_yield() ;
 	}
 }
 
@@ -31,12 +31,12 @@ main()
 	char *message1 = "Thread 1";
 	char *message2 = "Thread 2";
 
-	pthread_create( &thread1, NULL, print_message_function, (void*) message1);
-	pthread_create( &thread2, NULL, print_message_function, (void*) message2);
+	pthread_create(&thread1, NULL, print_message_function, (void*) message1);
+	pthread_create(&thread2, NULL, print_message_function, (void*) message2);
 
 
-	pthread_join( thread1, NULL);
-	pthread_join( thread2, NULL); 
+	pthread_join(thread1, NULL);
+	pthread_join(thread2, NULL); 
 
 	exit(0);
 }

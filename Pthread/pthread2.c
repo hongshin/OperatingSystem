@@ -13,6 +13,7 @@ void *print_message_function( void *ptr )
 	char * name = (char *) ptr ;
 
 	usleep((unsigned int) rand() % 1000) ;
+
 	printf("%s: %s \n", name, message);
 	message = strdup("Goodbye") ;
 }

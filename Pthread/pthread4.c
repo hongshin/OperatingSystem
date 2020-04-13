@@ -5,9 +5,9 @@
 #include <sched.h>
 
 pthread_mutex_t 	m = PTHREAD_MUTEX_INITIALIZER ;
-pthread_cond_t  	c = PTHREAD_COND_INITIALIZER ;
 
-int turn = 1 ;
+pthread_cond_t  	c = PTHREAD_COND_INITIALIZER ;
+int turn = 1 ;		// 1 or 2
 
 void *print_message_function1 (void * ptr)
 {
@@ -17,8 +17,8 @@ void *print_message_function1 (void * ptr)
 	int i = 0 ;
 	for (i = 0 ; i < 3 ; i++)  {
 		pthread_mutex_lock(&m) ;
-			while (turn != 1) 
-				pthread_cond_wait(&c, &m) ;
+			while (turn != 1)
+				pthread_cond_wait(&c, &m) ; // unlock(&m) when it goes waiting.
 		pthread_mutex_unlock(&m) ;
 
 		printf("%s\n", message) ;
@@ -37,7 +37,7 @@ void *print_message_function2 (void * ptr)
 
 	int i = 0 ;
 	for (i = 0 ; i < 3 ; i++)  {
-		pthread_mutex_lock(&m) ;			// racy
+		pthread_mutex_lock(&m) ;
 			while (turn != 2) 
 				pthread_cond_wait(&c, &m) ;
 		pthread_mutex_unlock(&m) ;
