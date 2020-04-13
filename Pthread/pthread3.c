@@ -14,10 +14,10 @@ void *print_message_function( void *ptr )
 	int i = 0 ;
 	for (i = 0 ; i < 3 ; i++)  {
 		pthread_mutex_lock(&m) ;
-			printf("%s\n", message) ;
-			printf("%s\n", message) ;
+			printf("%s %d\n", message, i) ;
+			printf("%s %d\n", message, i) ;
 			sleep(1) ;
-			printf("%s\n", message) ;
+			printf("%s %d\n", message, i) ;
 		pthread_mutex_unlock(&m) ;
 		sleep(1) ;
 	}
