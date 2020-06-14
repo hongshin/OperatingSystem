@@ -6,8 +6,8 @@ sm_container_t sm_head = {
 	0,
 	&sm_head, 
 	&sm_head,
-	0,
-	0x0 } ;
+	0 
+} ;
 
 static 
 void 
