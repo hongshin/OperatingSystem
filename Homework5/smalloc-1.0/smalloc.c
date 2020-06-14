@@ -10,8 +10,8 @@ sm_container_t sm_head = {
 } ;
 
 static 
-void 
-* _data (sm_container_ptr e)
+void * 
+_data (sm_container_ptr e)
 {
 	return ((void *) e) + sizeof(sm_container_t) ;
 }
@@ -97,7 +97,7 @@ print_sm_containers ()
 
 	printf("==================== sm_containers ====================\n") ;
 	for (itr = sm_head.next, i = 0 ; itr != &sm_head ; itr = itr->next, i++) {
-		printf("%3d:%p:%s:", i, itr + sizeof(sm_container_t), itr->status == Unused ? "Unused" : "  Busy") ;
+		printf("%3d:%p:%s:", i, _data(itr), itr->status == Unused ? "Unused" : "  Busy") ;
 		printf("%8d:", (int) itr->dsize) ;
 
 		int j ;

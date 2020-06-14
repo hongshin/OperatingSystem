@@ -12,9 +12,9 @@ typedef struct _sm_container_t 		sm_container_t ;
 typedef struct _sm_container_t * 	sm_container_ptr ;
 
 void * smalloc (size_t size) ; 
-void * srealloc (void * p, size_t newsize) ;
+//void * srealloc (void * p, size_t newsize) ;
 void sfree (void * p) ;
 //void sshrink() ;
 
 void print_sm_containers () ;
-/* void print_mem_uses() ; */
+// void print_mem_uses() ;
