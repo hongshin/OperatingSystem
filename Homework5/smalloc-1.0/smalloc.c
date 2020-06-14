@@ -9,12 +9,16 @@ sm_container_t sm_head = {
 	0,
 	0x0 } ;
 
-static void * _data (sm_container_ptr e)
+static 
+void 
+* _data (sm_container_ptr e)
 {
 	return ((void *) e) + sizeof(sm_container_t) ;
 }
 
-static void sm_container_split(sm_container_ptr hole, size_t size)
+static 
+void 
+sm_container_split (sm_container_ptr hole, size_t size)
 {
 	sm_container_ptr remainder = (sm_container_ptr) (_data(hole) + size) ;
 
@@ -27,7 +31,9 @@ static void sm_container_split(sm_container_ptr hole, size_t size)
 	hole->next = remainder ;
 }
 
-static void * retain_more_memory(int size)
+static 
+void * 
+retain_more_memory (int size)
 {
 	sm_container_ptr hole ;
 	int pagesize = getpagesize() ;
@@ -43,7 +49,8 @@ static void * retain_more_memory(int size)
 	return hole ;
 }
 
-void * smalloc(size_t size) 
+void * 
+smalloc (size_t size) 
 {
 	sm_container_ptr hole = 0x0, itr = 0x0 ;
 
@@ -70,7 +77,8 @@ void * smalloc(size_t size)
 	return _data(hole) ;
 }
 
-void sfree(void * p)
+void 
+sfree (void * p)
 {
 	sm_container_ptr itr ;
 	for (itr = sm_head.next ; itr != &sm_head ; itr = itr->next) {
@@ -81,7 +89,8 @@ void sfree(void * p)
 	}
 }
 
-void print_sm_containers ()
+void 
+print_sm_containers ()
 {
 	sm_container_ptr itr ;
 	int i ;
