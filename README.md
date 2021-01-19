@@ -20,7 +20,7 @@ In addition to the main textbook, I will revise and use some of the lectures sli
  - To be updated
  
  **Tutorial** 
-  - Beginner's Guide to System Programming* [link](https://sites.google.com/handong.edu/system-programming)
+  - [*Beginner's Guide to System Programming*](https://sites.google.com/handong.edu/system-programming)
 
 **Assignments**
  - To be updated
