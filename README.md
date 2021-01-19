@@ -2,8 +2,8 @@
 
 ### Class Attributes ###
 * Meeting Time & Location
-  * ITP30002-01: Tue/Fri, 10AM @ OH 401
-  * ITP30002-02: Tue/Fri, 4PM @ OH 305
+  * ITP30002-01: Tue/Fri, 10AM @ [Zoom](https://handong.zoom.us/my/hongshin) & OH 401
+  * ITP30002-02: Tue/Fri, 4PM @ [Zoom](https://handong.zoom.us/my/hongshin) & OH 305
 * Instructor: Shin Hong https://hongshin.github.io :e-mail: hongshin@handong.edu :door: OH 313
 * Teaching Assistants: To be announced
 * Class Policies: [POLICY.md](https://github.com/hongshin/OperatingSystem/blob/master/POLICY.md)
