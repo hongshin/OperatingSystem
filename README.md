@@ -11,7 +11,8 @@
 ### Study Materials ###
 
 **Main textbooks** :
-* [Operating Systems: Three Easy Pieces, Version 1.00](http://pages.cs.wisc.edu/~remzi/OSTEP/) :bulb:. The online version of this textbook is free and available to everyone. ​Reading list will cover many chapters of this textbook.
+* [Operating Systems: Three Easy Pieces, Version 1.00](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
+  The online version of this textbook is free and available to everyone.
 
 In addition to the main textbook, I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
