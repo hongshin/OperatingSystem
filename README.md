@@ -1,46 +1,25 @@
-# Operating System, 2020 Spring
+# Operating System, Spring 2021
 
 ### Class Attributes ###
 * Meeting Time & Location
-  * ITP30002-01: Tue/Fri, 10AM @ NTH 311
-  * ITP30002-02: Tue/Fri, 1 PM @ NTH 214
+  * ITP30002-01: Tue/Fri, 10AM @ OH 401
+  * ITP30002-02: Tue/Fri, 4PM @ OH 305
 * Instructor: Shin Hong https://hongshin.github.io :e-mail: hongshin@handong.edu :door: OH 313
 * Teaching Assistants: To be announced
 * Class Policies: [POLICY.md](https://github.com/hongshin/OperatingSystem/blob/master/POLICY.md)
 
 ### Study Materials ###
 
-**Main textbooks** : this year we are using **two main textbooks**
-
-* [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. You can find this book in Handong Book on campus. It is mandatory for each class participant to equip this main textbook: it will be assumed that each student has a textbook for doing homework, programming assignments, etc.
+**Main textbooks** :
 * [Operating Systems: Three Easy Pieces, Version 1.00](http://pages.cs.wisc.edu/~remzi/OSTEP/) :bulb:. The online version of this textbook is free and available to everyone. ​Reading list will cover many chapters of this textbook.
 
-**Online Channels**
-* ITP30002-01: piazza.com/handong/spring2020/itp3000201
-* ITP30002-02: piazza.com/handong/spring2020/itp3000202
-
-**Exams**
- - Midterm: [\[Problem set\]](https://github.com/hongshin/OperatingSystem/blob/master/notes/midterm-problems.pdf) 
- - Final: [\[Problem set\]](https://github.com/hongshin/OperatingSystem/blob/master/notes/final-problems.pdf)
+In addition to the main textbook, I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
- - [Memory Management](https://github.com/hongshin/OperatingSystem/blob/master/notes/memory-management.pdf)
- - [Virtual Memory](https://github.com/hongshin/OperatingSystem/blob/master/notes/virtual-memory.pdf)
- - [Deadlock](https://github.com/hongshin/OperatingSystem/blob/master/notes/datarace.pdf)
- - [Datarace](https://github.com/hongshin/OperatingSystem/blob/master/notes/deadlock.pdf)
- - [Synchronization](https://github.com/hongshin/OperatingSystem/blob/master/notes/synchronization.pdf)
- - [Multithreading](https://github.com/hongshin/OperatingSystem/blob/master/notes/multithrading.pdf)
- - [CPU Scheduling](https://github.com/hongshin/OperatingSystem/blob/master/notes/cpu-sched.pdf)
- - [Process](https://github.com/hongshin/OperatingSystem/blob/master/notes/process.pdf)
- - [Introduction](https://github.com/hongshin/OperatingSystem/blob/master/notes/introduction.pdf)
- - [Course overview](https://github.com/hongshin/OperatingSystem/blob/master/notes/courseoverview.pdf)
+ - To be updated
 
 **Assignments**
- - Homework 5. Simple Heap Mmoery Allocation Library [\[desc\]](https://github.com/hongshin/OperatingSystem/blob/master/assignments/homework5.pdf)
- - Homework 4. Runtime Deadlock Detector [\[desc\]](https://github.com/hongshin/OperatingSystem/blob/master/assignments/homework4.pdf)
- - Homework 3. Multithreaded TSP Solver [\[desc\]](https://github.com/hongshin/OperatingSystem/blob/master/assignments/homework3.pdf)
- - Homework 2. Parallel TSP Solver [\[desc\]](https://github.com/hongshin/OperatingSystem/blob/master/assignments/homework2.pdf)
- - Homework 1. Loadable Kernel Module Rootkit [\[desc\]](https://github.com/hongshin/OperatingSystem/blob/master/assignments/homework1.pdf)
+ - To be updated
 
 **Useful Links**
 - For studying Linux command lines
@@ -55,8 +34,8 @@
   - Unix Application and System Programming by Prof. Stewart Weiss  http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php
 
 #### Reading List & Lecture Note 
-* To be updated
-* 2019 course website: https://github.com/hongshin/OperatingSystem/tree/2019spring
+* 2020 class website: https://github.com/hongshin/OperatingSystem/tree/2019spring
+* 2019 class website: https://github.com/hongshin/OperatingSystem/tree/2019spring
 
 
 
