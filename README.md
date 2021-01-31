@@ -38,7 +38,7 @@ In addition to the main textbook, I will revise and use some of the lectures sli
   - Unix Application and System Programming by Prof. Stewart Weiss  http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php
 
 #### Reading List & Lecture Note 
-* 2020 class website: https://github.com/hongshin/OperatingSystem/tree/2019spring
+* 2020 class website: https://github.com/hongshin/OperatingSystem/tree/2020spring
 * 2019 class website: https://github.com/hongshin/OperatingSystem/tree/2019spring
 
 
