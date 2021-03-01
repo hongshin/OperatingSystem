@@ -18,11 +18,11 @@ c.f. [Is Handong Global?  by Prof. Scott Lincoln](http://www.hgupress.com/news/a
 This is to make questions and answers public that all class members can share them easily. 
 For this reason, the instructor and the TAs will not response to any personal contacts (e.g., via email).
 
-**Administrative requests**:
-For claiming attendance update and discussion point, you must put a post to ``Open Board``, or leave a comment at the corresponding post publicly. 
+**Administrative requests**
+For claiming attendance update or other adminsitrative requests, you must write a message at the ``#admin-request`` channel. 
 This makes the claiming process accountable and transparent to all class members.
 
-For a case where privacy matters, you first write a public post and then send the instructor a message via Slack to tranfer privacy-sensitive information (e.g., a proof for an approved absence).
+For a case where privacy matters, you first write a message at ``#admin-request`` and then send the instructor a message via Slack to tranfer privacy-sensitive information (e.g., a proof for an approved absence).
 
 **Counseling session**: Students can request a counselling session to the
 instructor to ask academic advice. 
@@ -82,6 +82,6 @@ A student will be rejected (i.e., get F) without any excuse for the following ca
     
   * Or, missing more than 7 class meetings 
 
-  * Or, not taking midterm or final exam
+  * Or, not taking an exam (e.g., midterm, final exam)
 
 c.f. [Handong CSEE Code of Academic Ethics](http://csee.handong.edu/wp-content/uploads/2018/02/HGU-CSEE-Standard_English_v0.2.pdf)
