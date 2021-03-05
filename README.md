@@ -23,7 +23,7 @@ In addition to the main textbook, I will revise and use some of the lectures sli
   - [*Beginner's Guide to System Programming*](https://sites.google.com/handong.edu/system-programming)
 
 **Assignments**
- - To be updated
+ - Reading group weekly report [\[link\]](http://github.com/hongshin/OperatingSystem/blob/master/assignments/weekly+report.docx)
 
 **Useful Links**
 - For studying Linux command lines
