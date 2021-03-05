@@ -23,7 +23,11 @@ In addition to the main textbook, I will revise and use some of the lectures sli
   - [*Beginner's Guide to System Programming*](https://sites.google.com/handong.edu/system-programming)
 
 **Assignments**
- - Reading group weekly report [\[link\]](http://github.com/hongshin/OperatingSystem/blob/master/assignments/weekly+report.docx)
+ - Reading group 
+   * weekly report template [\[link\]](http://github.com/hongshin/OperatingSystem/blob/master/assignments/weekly+report.docx)
+   * submission site http://takeme.kr/@osreport
+   * schedule
+    - week 2: Chapters 1, 2 and 3
 
 **Useful Links**
 - For studying Linux command lines
