@@ -29,6 +29,7 @@ In addition to the main textbook, I will revise and use some of the lectures sli
    * submission site http://takeme.kr/@osreport
    * schedule
        - week 2: Chapters 1, 2 and 3
+       - week 3: Chapters 4, 5 and 6
 
 **Useful Links**
 - For studying Linux command lines
