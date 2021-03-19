@@ -25,12 +25,15 @@ In addition to the main textbook, I will revise and use some of the lectures sli
   - [*Beginner's Guide to System Programming*](https://sites.google.com/handong.edu/system-programming)
 
 **Assignments**
+ - Homework 1. [PCTest: Multi-processed Programming Assignment Testers](http://github.com/hongshin/OperatingSystem/blob/master/assignments/homework1.pdf)
  - Reading group 
    * weekly report template [\[link\]](http://github.com/hongshin/OperatingSystem/blob/master/assignments/weekly+report.docx)
    * submission site http://takeme.kr/@osreport
    * schedule
-       - week 2: Chapters 1, 2 and 3
+       - week 4: [Sysprog Tutorial Unit 4](https://sites.google.com/handong.edu/system-programming/unit-4-inter-process-communication), Chapters 7 and 8
        - week 3: Chapters 4, 5 and 6
+       - week 2: Chapters 1, 2 and 3
+       
 
 **Useful Links**
 - For studying Linux command lines
