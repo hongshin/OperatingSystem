@@ -25,7 +25,7 @@ In addition to the main textbook, I will revise and use some of the lectures sli
   - [*Beginner's Guide to System Programming*](https://sites.google.com/handong.edu/system-programming)
 
 **Assignments**
- - Homework 2. [PCTest: Multi-processed Programming Assignment Testers](http://github.com/hongshin/OperatingSystem/blob/master/assignments/homework1.pdf)
+ - Homework 2. [PCTest: Multi-processed Programming Assignment Testers](http://github.com/hongshin/OperatingSystem/blob/master/assignments/homework2.pdf)
  - Homework 1. Entrance Survey
  - Reading group 
    * weekly report template [\[link\]](http://github.com/hongshin/OperatingSystem/blob/master/assignments/weekly+report.docx)
