@@ -17,6 +17,7 @@
 In addition to the main textbook, I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
+ - [Ch. 7. Scheduling Policy](http://github.com/hongshin/OperatingSystem/blob/master/notes/scheduling.pdf) (Mar 23) 
  - [Ch. 6. Limited Direct Execution and Context Switching](http://github.com/hongshin/OperatingSystem/blob/master/notes/ch6-syscall.pdf) (Mar 19)
  - [Ch. 4. Process](http://github.com/hongshin/OperatingSystem/blob/master/notes/ch4-process.pdf) (Mar 12, Mar 16)
  - [Ch. 2. Introduction to operating system](http://github.com/hongshin/OperatingSystem/blob/master/notes/ch2-introduction.pdf) (Mar 5, Mar 9)
@@ -32,7 +33,7 @@ In addition to the main textbook, I will revise and use some of the lectures sli
    * weekly report template [\[link\]](http://github.com/hongshin/OperatingSystem/blob/master/assignments/weekly+report.docx)
    * submission site http://takeme.kr/@osreport
    * schedule
-       - week 4: [Sysprog Tutorial Unit 4](https://sites.google.com/handong.edu/system-programming/unit-4-inter-process-communication), Chapters 7 and 8
+       - week 4: [Sysprog Tutorial Unit 4](https://sites.google.com/handong.edu/system-programming/unit-4-inter-process-communication)
        - week 3: Chapters 4, 5 and 6
        - week 2: Chapters 1, 2 and 3
        
