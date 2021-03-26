@@ -17,6 +17,7 @@
 In addition to the main textbook, I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
+ - [Ch. 8. Multi-level Feedback Queue](http://github.com/hongshin/OperatingSystem/blob/master/notes/ch8-mlfq.pdf) (Mar 26) 
  - [Ch. 7. Scheduling Policy](http://github.com/hongshin/OperatingSystem/blob/master/notes/scheduling.pdf) (Mar 23) 
  - [Ch. 6. Limited Direct Execution and Context Switching](http://github.com/hongshin/OperatingSystem/blob/master/notes/ch6-syscall.pdf) (Mar 19)
  - [Ch. 4. Process](http://github.com/hongshin/OperatingSystem/blob/master/notes/ch4-process.pdf) (Mar 12, Mar 16)
