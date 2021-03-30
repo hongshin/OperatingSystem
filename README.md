@@ -34,6 +34,7 @@ In addition to the main textbook, I will revise and use some of the lectures sli
    * weekly report template [\[link\]](http://github.com/hongshin/OperatingSystem/blob/master/assignments/weekly+report.docx)
    * submission site http://takeme.kr/@osreport
    * schedule
+       - week 5: Chapters 7, 8 and 9
        - week 4: [Sysprog Tutorial Unit 4](https://sites.google.com/handong.edu/system-programming/unit-4-inter-process-communication)
        - week 3: Chapters 4, 5 and 6
        - week 2: Chapters 1, 2 and 3
