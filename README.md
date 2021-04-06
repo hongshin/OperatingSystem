@@ -33,8 +33,7 @@ In addition to the main textbook, I will revise and use some of the lectures sli
  - Homework 2. [PCTest: Multi-processed Programming Assignment Testers](http://github.com/hongshin/OperatingSystem/blob/master/assignments/homework2.pdf)
  - Homework 1. Entrance Survey
  - Reading group 
-   * weekly report template [\[link\]](http://github.com/hongshin/OperatingSystem/blob/master/assignments/weekly+report.docx)
-   * submission site http://takeme.kr/@osreport
+   * peer evaluation form [link](https://github.com/hongshin/OperatingSystem/blob/master/assignments/peer%2Bevaluation.xlsx)
    * schedule
        - Week 6. Chapters 13, 14, 15 and 16
        - Week 5. Chapters 7, 8 and 9
