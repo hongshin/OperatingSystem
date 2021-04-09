@@ -17,6 +17,7 @@
 In addition to the main textbook, I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
+ - [Ch. 16. Segmentation](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch16%2B17-segmentation.pdf) (Apr 9)
  - [Ch. 15. Dynamic Relocation](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch13%2B15-vm.pdf) (Apr 6)
  - [Ch. 13. Address Space](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch13%2B15-vm.pdf) (Apr 2, Apr 6)
  - [Ch. 9. Proportional-share scheduling](http://github.com/hongshin/OperatingSystem/blob/master/notes/ch9-proportional.pdf) (Mar 30) 
