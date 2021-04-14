@@ -40,6 +40,7 @@ In addition to the main textbook, I will revise and use some of the lectures sli
  - Reading group 
    * peer evaluation form [link](https://github.com/hongshin/OperatingSystem/blob/master/assignments/peer%2Bevaluation.xlsx)
    * schedule
+       - Week 7. Chapters 17, 18 and 19
        - Week 6. Chapters 13, 14, 15 and 16
        - Week 5. Chapters 7, 8 and 9
        - Week 4. [Sysprog Tutorial Unit 4](https://sites.google.com/handong.edu/system-programming/unit-4-inter-process-communication)
