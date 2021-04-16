@@ -6,7 +6,7 @@
   * ITP30002-02: Tue/Fri, 1 PM @ NTH 214
 * Instructor: Shin Hong https://hongshin.github.io :e-mail: hongshin@handong.edu :door: OH 313
 * Teaching Assistants: To be announced
-* Class Policies: [POLICY.md](https://github.com/hongshin/OperatingSystem/blob/master/POLICY.md)
+* Class Policies: [POLICY.md](https://github.com/hongshin/OperatingSystem/blob/2020spring/POLICY.md)
 
 ### Study Materials ###
 
@@ -20,27 +20,27 @@
 * ITP30002-02: piazza.com/handong/spring2020/itp3000202
 
 **Exams**
- - Midterm: [\[Problem set\]](https://github.com/hongshin/OperatingSystem/blob/master/notes/midterm-problems.pdf) 
- - Final: [\[Problem set\]](https://github.com/hongshin/OperatingSystem/blob/master/notes/final-problems.pdf)
+ - Midterm: [\[Problem set\]](https://github.com/hongshin/OperatingSystem/blob/2020spring/notes/midterm-problems.pdf) 
+ - Final: [\[Problem set\]](https://github.com/hongshin/OperatingSystem/blob/2020spring/notes/final-problems.pdf)
 
 **Lecture Notes**
- - [Memory Management](https://github.com/hongshin/OperatingSystem/blob/master/notes/memory-management.pdf)
- - [Virtual Memory](https://github.com/hongshin/OperatingSystem/blob/master/notes/virtual-memory.pdf)
- - [Deadlock](https://github.com/hongshin/OperatingSystem/blob/master/notes/datarace.pdf)
- - [Datarace](https://github.com/hongshin/OperatingSystem/blob/master/notes/deadlock.pdf)
- - [Synchronization](https://github.com/hongshin/OperatingSystem/blob/master/notes/synchronization.pdf)
- - [Multithreading](https://github.com/hongshin/OperatingSystem/blob/master/notes/multithrading.pdf)
- - [CPU Scheduling](https://github.com/hongshin/OperatingSystem/blob/master/notes/cpu-sched.pdf)
- - [Process](https://github.com/hongshin/OperatingSystem/blob/master/notes/process.pdf)
- - [Introduction](https://github.com/hongshin/OperatingSystem/blob/master/notes/introduction.pdf)
- - [Course overview](https://github.com/hongshin/OperatingSystem/blob/master/notes/courseoverview.pdf)
+ - [Memory Management](https://github.com/hongshin/OperatingSystem/blob/2020spring/notes/memory-management.pdf)
+ - [Virtual Memory](https://github.com/hongshin/OperatingSystem/blob/2020spring/notes/virtual-memory.pdf)
+ - [Deadlock](https://github.com/hongshin/OperatingSystem/blob/2020spring/notes/datarace.pdf)
+ - [Datarace](https://github.com/hongshin/OperatingSystem/blob/2020spring/notes/deadlock.pdf)
+ - [Synchronization](https://github.com/hongshin/OperatingSystem/blob/2020spring/notes/synchronization.pdf)
+ - [Multithreading](https://github.com/hongshin/OperatingSystem/blob/2020spring/notes/multithrading.pdf)
+ - [CPU Scheduling](https://github.com/hongshin/OperatingSystem/blob/2020spring/notes/cpu-sched.pdf)
+ - [Process](https://github.com/hongshin/OperatingSystem/blob/2020spring/notes/process.pdf)
+ - [Introduction](https://github.com/hongshin/OperatingSystem/blob/2020spring/notes/introduction.pdf)
+ - [Course overview](https://github.com/hongshin/OperatingSystem/blob/2020spring/notes/courseoverview.pdf)
 
 **Assignments**
- - Homework 5. Simple Heap Mmoery Allocation Library [\[desc\]](https://github.com/hongshin/OperatingSystem/blob/master/assignments/homework5.pdf)
- - Homework 4. Runtime Deadlock Detector [\[desc\]](https://github.com/hongshin/OperatingSystem/blob/master/assignments/homework4.pdf)
- - Homework 3. Multithreaded TSP Solver [\[desc\]](https://github.com/hongshin/OperatingSystem/blob/master/assignments/homework3.pdf)
- - Homework 2. Parallel TSP Solver [\[desc\]](https://github.com/hongshin/OperatingSystem/blob/master/assignments/homework2.pdf)
- - Homework 1. Loadable Kernel Module Rootkit [\[desc\]](https://github.com/hongshin/OperatingSystem/blob/master/assignments/homework1.pdf)
+ - Homework 5. Simple Heap Mmoery Allocation Library [\[desc\]](https://github.com/hongshin/OperatingSystem/blob/2020spring/assignments/homework5.pdf)
+ - Homework 4. Runtime Deadlock Detector [\[desc\]](https://github.com/hongshin/OperatingSystem/blob/2020spring/assignments/homework4.pdf)
+ - Homework 3. Multithreaded TSP Solver [\[desc\]](https://github.com/hongshin/OperatingSystem/blob/2020spring/assignments/homework3.pdf)
+ - Homework 2. Parallel TSP Solver [\[desc\]](https://github.com/hongshin/OperatingSystem/blob/2020spring/assignments/homework2.pdf)
+ - Homework 1. Loadable Kernel Module Rootkit [\[desc\]](https://github.com/hongshin/OperatingSystem/blob/2020spring/assignments/homework1.pdf)
 
 **Useful Links**
 - For studying Linux command lines
