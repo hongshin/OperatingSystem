@@ -8,6 +8,10 @@
 * Teaching Assistants: To be announced
 * Class Policies: [POLICY.md](https://github.com/hongshin/OperatingSystem/blob/master/POLICY.md)
 
+### Midterm exam ###
+* Answer sheet [link](exam/midterm-answersheet.pdf)
+* Sample submission site [link]()
+
 ### Study Materials ###
 
 **Main textbooks** :
