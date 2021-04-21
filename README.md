@@ -9,7 +9,7 @@
 * Class Policies: [POLICY.md](https://github.com/hongshin/OperatingSystem/blob/master/POLICY.md)
 
 ### Midterm exam 💡
-* Answer sheet [\[link\]](exam/midterm-answersheet.pdf)
+* Answer sheet [\[link\]](exam/midterm+answersheet.pdf)
 * Sample submission site [\[link\]](https://docs.google.com/forms/d/e/1FAIpQLSfnpdKddkOgt9wkjCaa4qspI086MIN0A0udUjs46eo6_upHUA/viewform?usp=sf_link)
 
 ### Study Materials ###
