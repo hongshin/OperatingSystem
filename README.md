@@ -10,7 +10,8 @@
 
 ### Midterm exam 💡
 * Answer sheet [\[link\]](exam/midterm+answersheet.pdf)
-* Sample submission site [\[link\]](https://docs.google.com/forms/d/e/1FAIpQLSfnpdKddkOgt9wkjCaa4qspI086MIN0A0udUjs46eo6_upHUA/viewform?usp=sf_link)
+* Problem set [\[link\]](exam/midterm+problems.pdf)💡
+* Main submission site [\[link\]](https://forms.gle/RL8FYjyPW5NuVcM6A)💡
 
 ### Study Materials ###
 
