@@ -45,6 +45,7 @@ In addition to the main textbook, I will revise and use some of the lectures sli
  - Reading group 
    * peer evaluation form [link](https://github.com/hongshin/OperatingSystem/blob/master/assignments/peer%2Bevaluation.xlsx)
    * schedule
+       - Week 11. Chapters 29, 30 and Tutorial on [Thread creation and join](https://sites.google.com/handong.edu/system-programming/unit-5-multithreading/thread-creation-and-join), [Mutex](https://sites.google.com/handong.edu/system-programming/unit-5-multithreading/mutex)
        - Week 10. Chapters 23, 24, 26 and 27
        - Week 9. Chapters 20, 21 and 22
        - Week 7. Chapters 17, 18 and 19
