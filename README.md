@@ -17,6 +17,9 @@
 In addition to the main textbook, I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
+ - [Ch. 23. Complete VM Examples](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch23-vm-examples.pdf) (May 11)
+ - [Ch. 21 and 22. Swapping](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch21%2B22-swapping.pdf) (May 7)
+ - [Ch. 20. Page Table](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch20-page+table.pdf) (May 4)
  - Midterm exam (Apr 23)
     * Problem set [\[link\]](exam/midterm+problems.pdf), Answer sheet [\[link\]](exam/midterm+answersheet.pdf)
  - [Ch. 18 and 19. Paging and TLB](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch18%2B19-paging.pdf) (Apr 16)
