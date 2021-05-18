@@ -49,6 +49,7 @@ In addition to the main textbook, I will revise and use some of the lectures sli
  - Reading group 
    * peer evaluation form [link](https://github.com/hongshin/OperatingSystem/blob/master/assignments/peer%2Bevaluation.xlsx)
    * schedule
+       - Week 12. Chapter 28, 31, Tutorials on [Conditional Variables](https://sites.google.com/handong.edu/system-programming/unit-5-multithreading/conditional-variable?authuser=1), [Concurrent algorithm](https://sites.google.com/handong.edu/system-programming/unit-5-multithreading/concurrent-algorithms?authuser=1)
        - Week 11. Chapters 29, 30 and Tutorial on [Thread creation and join](https://sites.google.com/handong.edu/system-programming/unit-5-multithreading/thread-creation-and-join), [Mutex](https://sites.google.com/handong.edu/system-programming/unit-5-multithreading/mutex)
        - Week 10. Chapters 23, 24, 26 and 27
        - Week 9. Chapters 20, 21 and 22
