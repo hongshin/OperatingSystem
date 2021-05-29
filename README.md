@@ -19,8 +19,8 @@ In addition to the main textbook, I will revise and use some of the lectures sli
 **Lecture Notes**
  - [Ch. 32. Concurrency Bugs](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch32-concurrency+bugs.pdf) (May 29)
  - [Ch. 30 and 31. Conditional Variable and Semaphore](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch30-cv+semaphore.pdf) (May 25, May 28)
- - [Ch. 29. Lock-based Concurrent Data Structure](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch9-lock+ds.pdf) (May 21)
- - [Ch. 26 and 28. Multithreading](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch9-lock+ds.pdf) (May 14, May 18)
+ - [Ch. 29. Lock-based Concurrent Data Structure](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch29-lock+ds.pdf) (May 21)
+ - [Ch. 26 and 28. Multithreading](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch26-multithreading.pdf) (May 14, May 18)
  - [Ch. 23. Complete VM Examples](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch23-vm-examples.pdf) (May 11)
  - [Ch. 21 and 22. Swapping](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch21%2B22-swapping.pdf) (May 7)
  - [Ch. 20. Page Table](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch20-page+table.pdf) (May 4)
