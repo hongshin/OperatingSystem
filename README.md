@@ -47,6 +47,7 @@ In addition to the main textbook, I will revise and use some of the lectures sli
   - [*Beginner's Guide to System Programming*](https://sites.google.com/handong.edu/system-programming)
 
 **Assignments**
+ - Homework 5. [tfind: parallel text searching program with multithreading](http://github.com/hongshin/OperatingSystem/blob/master/assignments/homework5.pdf)
  - Homework 4. [rmalloc: reconfigurable dynamic memory management library](http://github.com/hongshin/OperatingSystem/blob/master/assignments/homework4.pdf)
    * [skeleton code](https://github.com/hongshin/OperatingSystem/tree/hw4)
    * [report template](http://github.com/hongshin/OperatingSystem/blob/master/assignments/report.docx)
