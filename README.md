@@ -17,6 +17,10 @@
 In addition to the main textbook, I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
+ - Final exam (June 17)
+     * Answersheet: [link](https://github.com/hongshin/OperatingSystem/blob/master/exam/final-answersheet.pdf)
+     * Problem set: TBD
+     * Submission site: TBD
  - [Ch. 40 and 41. File System Implementations](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch40+41-fs+impls.pdf) (Jun 11)
  - [Ch. 39. File System Interface](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch39-files+dirs.pdf) (Jun 8)
  - [Ch. 37. Hard Disk Drives](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch37-hdd.pdf) (Jun 4)
