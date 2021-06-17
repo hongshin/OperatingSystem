@@ -19,8 +19,8 @@ In addition to the main textbook, I will revise and use some of the lectures sli
 **Lecture Notes**
  - Final exam (June 17)
      * Answersheet: [link](https://github.com/hongshin/OperatingSystem/blob/master/exam/final+answersheet.pdf)
-     * Problem set: TBD
-     * Submission site: TBD
+     * Problem set: [link](https://github.com/hongshin/OperatingSystem/blob/master/exam/final.pdf)
+     * Submission site: [link](https://forms.gle/qrUwqs6kRB7ocXpJ8)
  - [Ch. 40 and 41. File System Implementations](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch40+41-fs+impls.pdf) (Jun 11)
  - [Ch. 39. File System Interface](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch39-files+dirs.pdf) (Jun 8)
  - [Ch. 37. Hard Disk Drives](https://github.com/hongshin/OperatingSystem/blob/master/notes/ch37-hdd.pdf) (Jun 4)
