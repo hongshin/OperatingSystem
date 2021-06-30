@@ -78,7 +78,7 @@ main(int argc, char const *argv[])
 			exit(EXIT_FAILURE); 
 		} 
 
-		if (fork() > 0) {
+		if (fork() == 0) {
 			child_proc(new_socket) ;
 		}
 		else {
