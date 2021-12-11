@@ -1,7 +1,7 @@
 # Operating System
 
 
-### Lecture Videos ###
+### Lecture Videos 💡 ###
 
 In last couple of years, I have taught basics of system programming and operating system in multiple computer science courses, and fortunately, I kept some records of them in YouTube. 
 
