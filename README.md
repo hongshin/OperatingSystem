@@ -1,12 +1,12 @@
-# Operating System, Spring 2021
+# Operating System
 
-### Class Attributes ###
-* Meeting Time & Location
-  * ITP30002-01: Tue/Fri, 10AM @ [Zoom](https://handong.zoom.us/my/hongshin) & NTH 412
-  * ITP30002-02: Tue/Fri, 4PM @ [Zoom](https://handong.zoom.us/my/hongshin) & OH 305
-* Instructor: Shin Hong https://hongshin.github.io :e-mail: hongshin@handong.edu :door: OH 313
-* Teaching Assistants: To be announced
-* Class Policies: [POLICY.md](https://github.com/hongshin/OperatingSystem/blob/master/POLICY.md)
+
+### Lecture Videos ###
+
+In last couple of years, I have taught basics of system programming and operating system in multiple computer science courses, and fortunately, I kept some records of them in YouTube. 
+
+https://sites.google.com/handong.edu/operating-systems (require Handong sign-in)
+
 
 ### Study Materials ###
 
