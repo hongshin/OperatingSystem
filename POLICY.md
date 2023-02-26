@@ -19,10 +19,10 @@ This is to make questions and answers publicly, such that all class members can 
 For this reason, the instructor and the TAs will not response to any personal contacts (e.g., email or Slack DM)
 
 **Administrative requests**
-For attendance update or other adminsitrative requests, you must write a message at the ``#admin-request`` channel. 
+For attendance update or other adminsitrative requests, you must write a message at the ``#adminrequest`` channel. 
 This makes the claiming process accountable and transparent to all class members.
 
-If privacy matters, you first write a message at ``#admin-request`` and then send the instructor a direct message via Slack to tranfer privacy-sensitive information (e.g., a proof for an approved absence).
+If privacy matters, you first write a message at ``#adminrequest`` and then send the instructor a direct message via Slack to tranfer privacy-sensitive information (e.g., a proof for an approved absence).
 
 **Counseling meeting**: Students can request a personal counselling meeting to the
 instructor to ask academic advice. 
@@ -52,7 +52,7 @@ Note that students cannot ask questions beyond the class material or ask persona
 ### Class Attendance ###
 * The instructor will check the attendance of each student at the beginning of each class.
   Every student must declare his/her attendance by responsing to the instructor.
-* If you failed to delcare your attendance due to technical problem, write a message on the ``#admin-request`` channel in Slack.
+* If you failed to delcare your attendance due to technical problem, write a message on the ``#adminrequest`` channel in Slack.
 * Approved absence (공인출석) is accepted only if (1) the instructor confirms that your case adheres to Act 8-34 of the HGU rule, and at the same time (3) you submit the proof
   * Act 8-34 of the HGU rule: http://rule.handong.edu/Gku.asp?Pun=3&Jang=3&Gku=1&Flag=SEARCH&Jo=34&Search_Word=#34
     >아래에 명시된 사유로 인한 수업 불참은 공인출석으로 처리되어 결석으로 간주되지 않으나 사고발생전이나 발생즉시 또는 부득이한 경우에는 발생일로부터 15일 이내에 증빙서류을 첨부하여 담임지도교수와 학과(부)장을 경유, 담당교수에게 직접 제출하여야 하고 제5호에서 제9호까지는 교무처장의 사전승인 받은 후 담당교수에게 직접 제출하여야 한다. 다만, 계절학기의 경우 공인출석사유별 최대 허용일을 교무처장이 별도로 정한다.(개정 2017.12.15)
