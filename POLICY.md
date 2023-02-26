@@ -9,35 +9,33 @@ Note that non-English descriptions will be excluded in all kinds of evaluations.
 
 In class meetings, it is highly recommended for all class members to use English for discussion. 
 Yet, to promote active class participation, students are allowed to use Korean in asking and answering questions, which will be repeated in English by the instructor.
-In addition, the instructor can use Korean to rephrase what he had already said in English; in this case as well, the instructor repeat in English what he said in Korean for double-check.
+The instructor may also use Korean to rephrase what he had already said in English; in this case as well, the instructor will repeat in English what he said in Korean.
 
 c.f. [Is Handong Global?  by Prof. Scott Lincoln](http://www.hgupress.com/news/articleView.html?idxno=6078)
 
 #### Contact with Instructor ####
-**Questions**: Use Slack. Write a message to the class channel. 
-This is to make questions and answers public that all class members can share them easily. 
-For this reason, the instructor and the TAs will not response to any personal contacts (e.g., via email).
+**Questions**: Raise a question in class, or write a message to the class channel. 
+This is to make questions and answers publicly, such that all class members can share them easily.
+For this reason, the instructor and the TAs will not response to any personal contacts (e.g., email or Slack DM)
 
 **Administrative requests**
-For claiming attendance update or other adminsitrative requests, you must write a message at the ``#admin-request`` channel. 
+For attendance update or other adminsitrative requests, you must write a message at the ``#admin-request`` channel. 
 This makes the claiming process accountable and transparent to all class members.
 
-For a case where privacy matters, you first write a message at ``#admin-request`` and then send the instructor a message via Slack to tranfer privacy-sensitive information (e.g., a proof for an approved absence).
+If privacy matters, you first write a message at ``#admin-request`` and then send the instructor a direct message via Slack to tranfer privacy-sensitive information (e.g., a proof for an approved absence).
 
-**Counseling session**: Students can request a counselling session to the
+**Counseling meeting**: Students can request a personal counselling meeting to the
 instructor to ask academic advice. 
-To make an appointment with the instructor, submit an answer to the following
-pre-interview form: https://forms.gle/KbREJ1b5S13nD51V7. 
-When a new submission is received, the instructor will send a reply to arrange 
-a personal counseling session. Note that the instructor does not arrange any 
-personal meeting at an exam season.
+To make an appointment with the instructor, submit an answer to the following pre-interview form: https://forms.gle/kZTNvBk2jw6BFymn7 .
+When a new submission is received, the instructor will send a reply to arrange a meeting.
+Note that the instructor does not arrange any personal meeting when exam is near.
 
 
 **Improper solicitation**:
 All kinds of improper soliciatations are strictly forbidden as declared in the Improper Solicitation 
 and Graft Act (aka. Kim Young-ran Act), including the following cases:
 :
-1. Students cannot give a gift in any form to the instructor or the TA (even a can of coffee)
+1. Students cannot give a gift in any form to the instructor or the TA (even a cup of coffee)
    while they are officially students in Handong
 1. Students can claim for correcting any error in evaluation, however they cannot ask the instructor/TA to change their gradings or any kind of evaluations
 1. Students cannot ask the instructor/TA any kind of unfair evaluations, even for exceptional cases. They must go to the Academic Affair Team to discuss their circumstances. Only upon the approvement from the Academic Affair Team, the instructor can change the rule/policy for the specific students.
@@ -53,8 +51,8 @@ Note that students cannot ask questions beyond the class material or ask persona
 
 ### Class Attendance ###
 * The instructor will check the attendance of each student at the beginning of each class.
-  Every student must declare his/her attendance by responsing to the instructor either online (via Zoom) or offline.
-* If you failed to delcare your attendance due to technical problem, put a claiming post to ``Open Board`` in Hisnet.
+  Every student must declare his/her attendance by responsing to the instructor.
+* If you failed to delcare your attendance due to technical problem, write a message on the ``#admin-request`` channel in Slack.
 * Approved absence (공인출석) is accepted only if (1) the instructor confirms that your case adheres to Act 8-34 of the HGU rule, and at the same time (3) you submit the proof
   * Act 8-34 of the HGU rule: http://rule.handong.edu/Gku.asp?Pun=3&Jang=3&Gku=1&Flag=SEARCH&Jo=34&Search_Word=#34
     >아래에 명시된 사유로 인한 수업 불참은 공인출석으로 처리되어 결석으로 간주되지 않으나 사고발생전이나 발생즉시 또는 부득이한 경우에는 발생일로부터 15일 이내에 증빙서류을 첨부하여 담임지도교수와 학과(부)장을 경유, 담당교수에게 직접 제출하여야 하고 제5호에서 제9호까지는 교무처장의 사전승인 받은 후 담당교수에게 직접 제출하여야 한다. 다만, 계절학기의 경우 공인출석사유별 최대 허용일을 교무처장이 별도로 정한다.(개정 2017.12.15)
@@ -76,7 +74,7 @@ Note that students cannot ask questions beyond the class material or ask persona
 ### Failures ###
 A student will be rejected (i.e., get F) without any excuse for the following cases:
   * Acts or attempts of conducting academic dishonesty, including the following cases:
-    * To see other's answer or unauthorized materials (including online ones) at an exam, homework, etc.
+    * To see other's answer or to use unauthorized materials or tools (including online ones) at an exam, homework, etc.
     * To show his/her answer at an exam, homework, etc.
     * To fake a point that matters to grading (attendance, discussion, peer evaluation)
     
