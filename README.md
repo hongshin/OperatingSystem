@@ -21,7 +21,7 @@
 * I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
- - To be announced
+ - What is Operating System (Ch. 2) [[pdf](notes/ch2-intro+os.pdf)]
  - c.f. lecture notes of the 2021 class
     * https://github.com/hongshin/OperatingSystem/tree/2021spring
 
