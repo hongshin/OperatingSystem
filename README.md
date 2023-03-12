@@ -31,7 +31,7 @@
  - Reading group
     * peer evaluation form [link](https://github.com/hongshin/OperatingSystem/blob/master/assignments/peer%2Bevaluation.xlsx)
     * schedule
-        - Week 3. Process API tutorial [[link](https://youtu.be/22Z7xAD_nfE)] and Chapter 6
+        - Week 3. [Process API tutorial](https://youtu.be/22Z7xAD_nfE), [Problem 10 of the 2021 midterm](https://github.com/hongshin/OperatingSystem/blob/2021spring/exam/midterm+problems.pdf), and Chapter 6
         - Week 2. Chapters 4 and 5
 
 **Lecture Videos**
