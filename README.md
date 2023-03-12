@@ -31,7 +31,8 @@
  - Reading group
     * peer evaluation form [link](https://github.com/hongshin/OperatingSystem/blob/master/assignments/peer%2Bevaluation.xlsx)
     * schedule
-        - TBA
+        - Week 3. Process API tutorial [[link](https://youtu.be/22Z7xAD_nfE)] and Chapter 6
+        - Week 2. Chapters 4 and 5
 
 **Lecture Videos**
 In last couple of years, I have taught basics of system programming and operating system in multiple computer science courses, and fortunately, I kept some records of them in YouTube. 
