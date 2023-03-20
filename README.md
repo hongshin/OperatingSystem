@@ -21,6 +21,9 @@
 * I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
+ - Scheduling Basics (Ch. 7) [[pdf](notes/ch7-scheduling.pdf)]
+ - Process API [[1](https://youtu.be/22Z7xAD_nfE)][[2]](https://youtu.be/ODixeqqD-Kc)[[3]](https://youtu.be/8v1f6S4JTY0)[[4]](https://youtu.be/Lj_eBZCiIEo)
+ - Process (Ch. 4 and Ch. 6) [[pdf]](notes/ch4+6-process.pdf)]
  - What is Operating System (Ch. 2) [[pdf](notes/ch2-intro+os.pdf)]
  - c.f. lecture notes of the 2021 class
     * https://github.com/hongshin/OperatingSystem/tree/2021spring
