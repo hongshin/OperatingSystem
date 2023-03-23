@@ -21,6 +21,7 @@
 * I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
+ - Multi-level Feedback Queue (Ch. 8) [[pdf](notes/ch8-mlfq.pdf)]
  - Scheduling Basics (Ch. 7) [[pdf](notes/ch7-scheduling.pdf)]
  - Process API [[1](https://youtu.be/22Z7xAD_nfE)][[2]](https://youtu.be/ODixeqqD-Kc)[[3]](https://youtu.be/8v1f6S4JTY0)[[4]](https://youtu.be/Lj_eBZCiIEo)
  - Process (Ch. 4 and Ch. 6) [[pdf]](notes/ch4+6-process.pdf)]
