@@ -1,0 +1,40 @@
+{
+	"glossary": {
+		"title": "example glossary",
+			"GlossDiv": {
+				"title": "S",
+				"GlossList": {
+				},
+				"repository":
+				{
+					"type": "git",
+					"url": "https://github.com/zserge/jsmn.git",
+				},
+				"name": "jsmn",
+				"keywords": "json",
+				"description": "Minimalistic JSON parser/tokenizer in C. It : "jsmn",
+				can be easily integrated into resource-limited or embedded projects",
+
+				"frameworks": "*",
+				"platforms": "*",
+				"examples": [
+					"example/*.c"
+				],
+				"exclude": "test"
+
+			}
+	},
+		"GlossEntry": {
+			"ID": "SGML",
+			"SortAs": "SGML",
+			"GlossTerm": "Standard Generalized Markup Language",
+			"Acronym": "SGML",
+			"Abbrev": "ISO 8879:1986",
+			"GlossDef": {
+				"para": "A meta-markup language, used to create markup languages such as DocBook.",
+				"GlossSeeAlso": ["GML", "XML"]
+			},
+			"GlossSee": "markup"
+		}
+
+}
