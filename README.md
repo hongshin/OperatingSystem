@@ -21,6 +21,7 @@
 * I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
+ - Proportional-Share Scheduling (Ch. 9) [[pdf](notes/ch9-propshare.pdf)]
  - Multi-level Feedback Queue (Ch. 8) [[pdf](notes/ch8-mlfq.pdf)]
  - Scheduling Basics (Ch. 7) [[pdf](notes/ch7-scheduling.pdf)]
  - Process API [[1](https://youtu.be/22Z7xAD_nfE)][[2]](https://youtu.be/ODixeqqD-Kc)[[3]](https://youtu.be/8v1f6S4JTY0)[[4]](https://youtu.be/Lj_eBZCiIEo)
@@ -36,6 +37,7 @@
  - Reading group
     * peer evaluation form [link](https://github.com/hongshin/OperatingSystem/blob/master/assignments/peer%2Bevaluation.xlsx)
     * schedule
+        - Week 5. Study the background of [Homework 2](assignments/homework2.pdf)
         - Week 4. IPC tutorial [[1]](https://youtu.be/ODixeqqD-Kc)[[2]](https://youtu.be/8v1f6S4JTY0)[[3]](https://youtu.be/Lj_eBZCiIEo), and Chapter 7
         - Week 3. [Process API tutorial](https://youtu.be/22Z7xAD_nfE), [Problem 10 of the 2021 midterm](https://github.com/hongshin/OperatingSystem/blob/2021spring/exam/midterm+problems.pdf), and Chapter 6
         - Week 2. Chapters 4 and 5
