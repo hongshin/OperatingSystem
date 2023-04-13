@@ -41,6 +41,7 @@
  - Reading group
     * peer evaluation form [link](https://github.com/hongshin/OperatingSystem/blob/master/assignments/peer%2Bevaluation.xlsx)
     * schedule
+        - Week 7. Chapters 18, 19 and 20
         - Week 6. Chapters 13, 15 and 16
         - Week 5. Study the background of [Homework 2](assignments/homework2.pdf)
         - Week 4. IPC tutorial [[1]](https://youtu.be/ODixeqqD-Kc)[[2]](https://youtu.be/8v1f6S4JTY0)[[3]](https://youtu.be/Lj_eBZCiIEo), and Chapter 7
