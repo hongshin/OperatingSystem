@@ -21,6 +21,10 @@
 * I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
+ - Page Table (Ch. 20) [[pdf](notes/ch20-page+table.pdf)]
+ - Paging (Ch. 18 and Ch. 19) [[pdf](notes/ch18+19-paging.pdf)] 
+ - Segmentation (Ch. 16 and Ch. 17) [[pdf](notes/ch16+17-segmentation)]
+ - Memory Virtualization (Ch. 13 and Ch. 15) [[pdf](notes/ch13+15-vm.pdf)]
  - Proportional-Share Scheduling (Ch. 9) [[pdf](notes/ch9-propshare.pdf)]
  - Multi-level Feedback Queue (Ch. 8) [[pdf](notes/ch8-mlfq.pdf)]
  - Scheduling Basics (Ch. 7) [[pdf](notes/ch7-scheduling.pdf)]
