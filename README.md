@@ -21,6 +21,7 @@
 * I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
+ - Midterm exam [[pdf](exam/midterm.pdf)]
  - Page Table (Ch. 20) [[pdf](notes/ch20-page+table.pdf)]
  - Paging (Ch. 18 and Ch. 19) [[pdf](notes/ch18+19-paging.pdf)] 
  - Segmentation (Ch. 16 and Ch. 17) [[pdf](notes/ch16+17-segmentation)]
@@ -41,6 +42,7 @@
  - Reading group
     * peer evaluation form [link](https://github.com/hongshin/OperatingSystem/blob/master/assignments/peer%2Bevaluation.xlsx)
     * schedule
+        - Week 8. No assignment.
         - Week 7. Chapters 18, 19 and 20
         - Week 6. Chapters 13, 15 and 16
         - Week 5. Study the background of [Homework 2](assignments/homework2.pdf)
