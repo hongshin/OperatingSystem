@@ -2,9 +2,18 @@
 #include <stdio.h>
 #include "bmalloc.h" 
 
-bm_option bm_mode ;
+bm_option bm_mode = BestFit ;
+bm_header bm_list_head = {0, 0, 0x0 } ;
 
-bm_header bm_list = {0, 0, 0x0 } ;
+void * sibling (void * h)
+{
+	// TODO
+}
+
+int fitting (size_t s) 
+{
+	// TODO
+}
 
 void * bmalloc (size_t s) 
 {
@@ -36,7 +45,7 @@ bmprint ()
 	int i ;
 
 	printf("==================== bm_list ====================\n") ;
-	for (itr = bm_list.next, i = 0 ; itr != 0x0 ; itr = itr->next, i++) {
+	for (itr = bm_list_head.next, i = 0 ; itr != 0x0 ; itr = itr->next, i++) {
 		printf("%3d:%p:%1d %8d:", i, ((void *) itr) + sizeof(bm_header), (int)itr->used, (int) itr->size) ;
 
 		int j ;
@@ -47,6 +56,5 @@ bmprint ()
 	}
 	printf("=================================================\n") ;
 
-
-	//TODO
+	//TODO: print out the stat's.
 }
