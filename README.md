@@ -37,6 +37,7 @@
 
 **Homework & Reading group assignments**
  - Homework
+    * Homework 3. bmalloc: buddy memory allocator [[pdf](assignments/homework3.pdf)] [[code](https://github.com/hongshin/OperatingSystem/tree/hw3)]
     * Homework 2. Crashing Input Minimizer [[pdf](assignments/homework2.pdf)] (due: 9 PM, Apr 8)
     * Homework 1. Entrance Survey
  - Reading group
