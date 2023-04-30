@@ -16,6 +16,8 @@ void *print_message_function( void *ptr )
 
 	printf("%s: %s \n", name, message);
 	message = strdup("Goodbye") ;
+
+	return NULL ;
 }
 
 int

@@ -28,6 +28,7 @@ void *print_message_function1 (void * ptr)
 			pthread_cond_signal(&c) ;
 		pthread_mutex_unlock(&m) ;
 	}
+	return NULL ;
 }
 
 void *print_message_function2 (void * ptr)
@@ -49,6 +50,7 @@ void *print_message_function2 (void * ptr)
 			pthread_cond_signal(&c) ;
 		pthread_mutex_unlock(&m) ;
 	}
+	return NULL ;
 }
 
 int

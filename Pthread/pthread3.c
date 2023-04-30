@@ -21,6 +21,8 @@ void *print_message_function( void *ptr )
 		pthread_mutex_unlock(&m) ;
 		sleep(1) ;
 	}
+
+	return NULL ;
 }
 
 int
