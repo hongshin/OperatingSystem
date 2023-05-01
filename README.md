@@ -43,6 +43,7 @@
  - Reading group
     * peer evaluation form [link](https://github.com/hongshin/OperatingSystem/blob/master/assignments/peer%2Bevaluation.xlsx)
     * schedule
+        - Week 10. Chapters 26, 27, and 28
         - Week 9. Chapters 21, 22 and 23
         - Week 8. No assignment.
         - Week 7. Chapters 18, 19 and 20
