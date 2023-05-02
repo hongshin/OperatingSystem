@@ -21,6 +21,9 @@
 * I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
+ - Multithreading (Ch. 26) [[pdf](notes/ch26-multithreading.pdf)]
+ - Virtual Memory Systems (Ch. 23) [[pdf](notes/ch23-vm-examples.pdf)]
+ - Swapping (Ch. 21 and Ch. 22) [[pdf](notes/ch21+22-swapping.pdf)]
  - Midterm exam [[pdf](exam/midterm.pdf)]
  - Page Table (Ch. 20) [[pdf](notes/ch20-page+table.pdf)]
  - Paging (Ch. 18 and Ch. 19) [[pdf](notes/ch18+19-paging.pdf)] 
