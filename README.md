@@ -46,6 +46,7 @@
  - Reading group
     * peer evaluation form [link](https://github.com/hongshin/OperatingSystem/blob/master/assignments/peer%2Bevaluation.xlsx)
     * schedule
+        - Week 12. Chapters 30 and 31 and [Condition variable](https://youtu.be/9tFznznp_QA) and [Bounded Buffer](https://youtu.be/jj7zqZn095s)
         - Week 10. Chapters 26, 27, and 28
         - Week 9. Chapters 21, 22 and 23
         - Week 8. No assignment.
