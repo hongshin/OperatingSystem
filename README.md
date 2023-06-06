@@ -21,6 +21,12 @@
 * I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
+ - File System Impelementation (Ch. 40 & 41) [[pdf](notes/ch40+41-fs+impls.pdf)]
+ - Files and Directories (Ch. 39) [[pdf](notes/ch39-files+dirs.pdf)]
+ - Hard Disk Drive (Ch. 37) [[pdf](notes/ch37-hdd.pdf)]
+ - I/O devices (Ch. 36) [[pdf](notes/ch36-iodevices.pdf)]
+ - Multithreading Exercise: Multithraded TSP Solver [[link](notes/tsp)]
+ - Multithreading (Ch. 29) [[pdf](notes/ch28-concurrent-datastructure.pdf)]
  - Multithreading (Ch. 26) [[pdf](notes/ch26-multithreading.pdf)]
  - Virtual Memory Systems (Ch. 23) [[pdf](notes/ch23-vm-examples.pdf)]
  - Swapping (Ch. 21 and Ch. 22) [[pdf](notes/ch21+22-swapping.pdf)]
@@ -40,12 +46,17 @@
 
 **Homework & Reading group assignments**
  - Homework
+    * Homework 5. jsonfs [[pdf](assignments/homework5.pdf] [[code](https://github.com/hongshin/OperatingSystem/tree/hw5)]
+    * Homework 4. findeq [[pdf](assignments/homework4.pdf]
     * Homework 3. bmalloc: buddy memory allocator [[pdf](assignments/homework3.pdf)] [[code](https://github.com/hongshin/OperatingSystem/tree/hw3)]
     * Homework 2. Crashing Input Minimizer [[pdf](assignments/homework2.pdf)] (due: 9 PM, Apr 8)
     * Homework 1. Entrance Survey
  - Reading group
     * peer evaluation form [link](https://github.com/hongshin/OperatingSystem/blob/master/assignments/peer%2Bevaluation.xlsx)
     * schedule
+        - Week 15. Chapters 39, 40 and 41
+        - Week 14. Chapters 36 and 37
+        - Week 13. Multithreaded TSP solver
         - Week 12. Chapters 30 and 31 and [Condition variable](https://youtu.be/9tFznznp_QA) and [Bounded Buffer](https://youtu.be/jj7zqZn095s)
         - Week 10. Chapters 26, 27, and 28
         - Week 9. Chapters 21, 22 and 23
