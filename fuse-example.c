@@ -3,9 +3,12 @@
 
 #define FUSE_USE_VERSION 26
 
+#include <stdio.h>
 #include <fuse.h>
 #include <string.h>
 #include <errno.h>
+#include <json.h>
+
 
 static const char *filecontent = "I'm the content of the only file available there\n";
 
@@ -74,7 +77,38 @@ static struct fuse_operations fuse_example_operations = {
   .readdir = readdir_callback,
 };
 
+
+void print_json (struct json_object * json) 
+{
+	int n = json_object_array_length(json);
+
+	for ( int i = 0 ; i < n ; i++ ) {
+		struct json_object * obj = json_object_array_get_idx(json, i);
+
+		printf("{\n") ;
+		json_object_object_foreach(obj, key, val) {
+			if (strcmp(key, "inode") == 0) 
+				printf("   inode: %d\n", (int) json_object_get_int(val)) ;
+
+			if (strcmp(key, "type") == 0) 
+				printf("   type: %s\n", (char *) json_object_get_string(val)) ;
+
+			if (strcmp(key, "name" ) == 0)
+				printf("   name: %s\n", (char *) json_object_get_string(val)) ;
+			
+			if (strcmp(key, "entries") == 0) 
+				printf("   # entries: %d\n", json_object_array_length(val)) ;
+		}
+		printf("}\n") ;
+	}
+}
+
+
 int main(int argc, char *argv[])
 {
-  return fuse_main(argc, argv, &fuse_example_operations, NULL);
+	struct json_object * fs_json = json_object_from_file("fs.json") ; 
+	print_json(fs_json) ;
+	json_object_put(fs_json) ;
+
+	return fuse_main(argc, argv, &fuse_example_operations, NULL) ;
 }

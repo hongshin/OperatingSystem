@@ -1,0 +1,38 @@
+[
+	{
+		"inode": 0,
+		"type": "dir",
+		"entries":
+		[
+			{"name": "hello", "inode": 1},
+			{"name": "d1", "inode": 2}
+		]
+	},
+	{
+		"inode": 1,
+		"type": "reg",
+		"data": "Hello World!"
+	},
+	{
+		"inode": 2,
+		"type": "dir",
+		"entries":
+		[
+			{"name": "d2", "inode": 3}
+		]
+	},
+	{
+		"inode": 3,
+		"type": "dir",
+		"entries":
+		[
+			{"name": "bye", "inode": 4},
+			{"name": "hello", "inode": 1}
+		]
+	},
+	{
+		"inode": 4,
+		"type": "reg",
+		"data": "Goodbye!"
+	}
+]
