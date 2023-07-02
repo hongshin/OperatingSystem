@@ -2,10 +2,10 @@
 
 ### Class Attributes ###
 * Meeting Time & Location
-  - ITP30002-01: Mon/Thur, 10:00 AM @ [Zoom](https://handong.zoom.us/my/hongshin) & OH 305
-  - ITP30002-02: Mon/Thur, 11:30 PM @ [Zoom](https://handong.zoom.us/my/hongshin) & OH 305
+  - ITP30002-01: Mon/Thur, 10:00 AM @ OH 305
+  - ITP30002-02: Mon/Thur, 11:30 PM @ OH 305
 * Instructor: Shin Hong https://hongshin.github.io :e-mail: hongshin@handong.edu :door: OH 313
-* Teaching Assistants: To be announced
+* Teaching Assistants: Jeewoong Kim jeewoong@handong.edu and Suhyun Park suhyun@handong.edu
 * Class Policies: [POLICY.md](https://github.com/hongshin/OperatingSystem/blob/master/POLICY.md)
 
 
@@ -21,6 +21,7 @@
 * I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
+ - Final exam [[pdf](exam/final.pdf)]
  - File System Impelementation (Ch. 40 & 41) [[pdf](notes/ch40+41-fs+impls.pdf)]
  - Files and Directories (Ch. 39) [[pdf](notes/ch39-files+dirs.pdf)]
  - Hard Disk Drive (Ch. 37) [[pdf](notes/ch37-hdd.pdf)]
@@ -46,7 +47,7 @@
 
 **Homework & Reading group assignments**
  - Homework
-    * Homework 5. jsonfs [[pdf](assignments/homework5.pdf)] [[code](https://github.com/hongshin/OperatingSystem/tree/hw5)]
+    * Homework 5. jsonfs [[pdf](assignments/hw5-jsonfs.pdf)] [[code](https://github.com/hongshin/OperatingSystem/tree/hw5)]
     * Homework 4. findeq [[pdf](assignments/homework4.pdf)]
     * Homework 3. bmalloc: buddy memory allocator [[pdf](assignments/homework3.pdf)] [[code](https://github.com/hongshin/OperatingSystem/tree/hw3)]
     * Homework 2. Crashing Input Minimizer [[pdf](assignments/homework2.pdf)] (due: 9 PM, Apr 8)
@@ -71,7 +72,7 @@
 **Lecture Videos**
 In last couple of years, I have taught basics of system programming and operating system in multiple computer science courses, and fortunately, I kept some records of them in YouTube. 
 
-https://sites.google.com/handong.edu/operating-systems (require Handong sign-in)
+https://sites.google.com/handong.edu/operating-systems
 
 
 **Useful Links**
