@@ -5,7 +5,7 @@
   - ITP30002-01: Mon/Thur, 10:00 AM @ OH 305
   - ITP30002-02: Mon/Thur, 11:30 PM @ OH 305
 * Instructor: Shin Hong https://hongshin.github.io :e-mail: hongshin@handong.edu :door: OH 313
-* Teaching Assistants: Jeewoong Kim jeewoong@handong.edu and Suhyun Park suhyun@handong.edu
+* Teaching Assistants: Sungbin Lim sungbin@handong.ac.kr, Kieun Kim kieun@handong.ac.kr
 * Class Policies: [POLICY.md](https://github.com/hongshin/OperatingSystem/blob/master/POLICY.md)
 
 
