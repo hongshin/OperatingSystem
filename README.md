@@ -15,7 +15,7 @@
 
 **Secondary textbooks**
 * [xv6: a simple, Unix-like teaching operating system, revision 8](https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf)
-* How Linux Works, 3rd edition by Brian Ward (Handong students can access via O'Reilly Higher Education through Handong library)
+* How Linux Works, 3rd edition by Brian Ward 
 * I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
