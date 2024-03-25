@@ -1,13 +1,11 @@
 # Operating System
 
 ### Class Attributes ###
-* Meeting Time & Location
-  - ITP30002-01: Mon/Thur, 10:00 AM @ OH 305
-  - ITP30002-02: Mon/Thur, 11:30 PM @ OH 305
-* Instructor: Shin Hong https://hongshin.github.io :e-mail: hongshin@handong.edu :door: OH 313
-* Teaching Assistants: Sungbin Lim sungbin@handong.ac.kr, Kieun Kim kieun@handong.ac.kr
-* Class Policies: [POLICY.md](https://github.com/hongshin/OperatingSystem/blob/master/POLICY.md)
-
+* Time & Location
+	- Time: 4:00--6:00 PM Mon & 1:00--2:00 PM Tue
+	- Location: 103 S4-1
+* Instructor: Shin Hong https://hongshin.github.io :e-mail: hongshin@gmail.com :door: 316 S4-1
+* Teaching Assistant: Kieun Kim kieun@chungbuk.ac.kr
 
 ### Study Materials ###
 
@@ -21,53 +19,18 @@
 * I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
- - Final exam [[pdf](exam/final.pdf)]
- - File System Impelementation (Ch. 40 & 41) [[pdf](notes/ch40+41-fs+impls.pdf)]
- - Files and Directories (Ch. 39) [[pdf](notes/ch39-files+dirs.pdf)]
- - Hard Disk Drive (Ch. 37) [[pdf](notes/ch37-hdd.pdf)]
- - I/O devices (Ch. 36) [[pdf](notes/ch36-iodevices.pdf)]
- - Multithreading Exercise: Multithraded TSP Solver [[link](notes/tsp)]
- - Multithreading (Ch. 29) [[pdf](notes/ch28-concurrent-datastructure.pdf)]
- - Multithreading (Ch. 26) [[pdf](notes/ch26-multithreading.pdf)]
- - Virtual Memory Systems (Ch. 23) [[pdf](notes/ch23-vm-examples.pdf)]
- - Swapping (Ch. 21 and Ch. 22) [[pdf](notes/ch21+22-swapping.pdf)]
- - Midterm exam [[pdf](exam/midterm.pdf)]
- - Page Table (Ch. 20) [[pdf](notes/ch20-page+table.pdf)]
- - Paging (Ch. 18 and Ch. 19) [[pdf](notes/ch18+19-paging.pdf)] 
- - Segmentation (Ch. 16 and Ch. 17) [[pdf](notes/ch16+17-segmentation)]
- - Memory Virtualization (Ch. 13 and Ch. 15) [[pdf](notes/ch13+15-vm.pdf)]
- - Proportional-Share Scheduling (Ch. 9) [[pdf](notes/ch9-propshare.pdf)]
- - Multi-level Feedback Queue (Ch. 8) [[pdf](notes/ch8-mlfq.pdf)]
- - Scheduling Basics (Ch. 7) [[pdf](notes/ch7-scheduling.pdf)]
- - Process API [[1](https://youtu.be/22Z7xAD_nfE)][[2]](https://youtu.be/ODixeqqD-Kc)[[3]](https://youtu.be/8v1f6S4JTY0)[[4]](https://youtu.be/Lj_eBZCiIEo)
- - Process (Ch. 4 and Ch. 6) [[pdf]](notes/ch4+6-process.pdf)]
- - What is Operating System (Ch. 2) [[pdf](notes/ch2-intro+os.pdf)]
- - c.f. lecture notes of the 2021 class
-    * https://github.com/hongshin/OperatingSystem/tree/2021spring
+ - Scheduling Basics (Ch. 7) [\[pdf\]](note/ch7-scheduling.pdf)
+ - Process (Ch. 4 and Ch. 6) [\[pdf\]](note/ch4+6-process.pdf)
+ - What is Operating System (Ch. 2) [\[pdf\]](note/ch2-intro+os.pdf)
+ - c.f. lecture notes of the 2023 class
+    * https://github.com/hongshin/OperatingSystem/tree/2023spring/notes
 
-**Homework & Reading group assignments**
- - Homework
-    * Homework 5. jsonfs [[pdf](assignments/hw5-jsonfs.pdf)] [[code](https://github.com/hongshin/OperatingSystem/tree/hw5)]
-    * Homework 4. findeq [[pdf](assignments/homework4.pdf)]
-    * Homework 3. bmalloc: buddy memory allocator [[pdf](assignments/homework3.pdf)] [[code](https://github.com/hongshin/OperatingSystem/tree/hw3)]
-    * Homework 2. Crashing Input Minimizer [[pdf](assignments/homework2.pdf)] (due: 9 PM, Apr 8)
-    * Homework 1. Entrance Survey
- - Reading group
-    * peer evaluation form [link](https://github.com/hongshin/OperatingSystem/blob/master/assignments/peer%2Bevaluation.xlsx)
-    * schedule
-        - Week 15. Chapters 39, 40 and 41
-        - Week 14. Chapters 36 and 37
-        - Week 13. Multithreaded TSP solver
-        - Week 12. Chapters 30 and 31 and [Condition variable](https://youtu.be/9tFznznp_QA) and [Bounded Buffer](https://youtu.be/jj7zqZn095s)
-        - Week 10. Chapters 26, 27, and 28
-        - Week 9. Chapters 21, 22 and 23
-        - Week 8. No assignment.
-        - Week 7. Chapters 18, 19 and 20
-        - Week 6. Chapters 13, 15 and 16
-        - Week 5. Study the background of [Homework 2](assignments/homework2.pdf)
-        - Week 4. IPC tutorial [[1]](https://youtu.be/ODixeqqD-Kc)[[2]](https://youtu.be/8v1f6S4JTY0)[[3]](https://youtu.be/Lj_eBZCiIEo), and Chapter 7
-        - Week 3. [Process API tutorial](https://youtu.be/22Z7xAD_nfE), [Problem 10 of the 2021 midterm](https://github.com/hongshin/OperatingSystem/blob/2021spring/exam/midterm+problems.pdf), and Chapter 6
-        - Week 2. Chapters 4 and 5
+**Reading Group**
+ * peer evaluation form [link](https://github.com/hongshin/OperatingSystem/blob/master/assignments/peer%2Bevaluation.xlsx)
+ * schedule
+ 	- Week 4. Chapters 7 and 8
+	- Week 3. Chapters 6
+	- Week 2. Chapters 4 and 5
 
 **Lecture Videos**
 In last couple of years, I have taught basics of system programming and operating system in multiple computer science courses, and fortunately, I kept some records of them in YouTube. 
@@ -88,6 +51,7 @@ https://sites.google.com/handong.edu/operating-systems
   - Unix Application and System Programming by Prof. Stewart Weiss  http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php
 
 ### Previous Instances of this course ###
+* 2023 class website: https://github.com/hongshin/OperatingSystem/tree/2023spring
 * 2021 class webiste: https://github.com/hongshin/OperatingSystem/tree/2021spring
 * 2020 class website: https://github.com/hongshin/OperatingSystem/tree/2020spring
 * 2019 class website: https://github.com/hongshin/OperatingSystem/tree/2019spring
