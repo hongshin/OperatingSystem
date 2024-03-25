@@ -26,7 +26,7 @@
     * https://github.com/hongshin/OperatingSystem/tree/2023spring/notes
 
 **Reading Group**
- * peer evaluation form [link](https://github.com/hongshin/OperatingSystem/blob/master/assignments/peer%2Bevaluation.xlsx)
+ * peer evaluation form (TBA)
  * schedule
  	- Week 4. Chapters 7 and 8
 	- Week 3. Chapters 6
