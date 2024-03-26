@@ -21,7 +21,7 @@
 **Lecture Notes**
  - Scheduling Basics (Ch. 7) [\[pdf\]](note/ch7-scheduling.pdf)
  - Process (Ch. 4 and Ch. 6) [\[pdf\]](note/ch4+6-process.pdf)
- - What is Operating System (Ch. 2) [\[pdf\]](note/ch2-intro+os.pdf)
+ - What is Operating System (Ch. 2) [\[pdf\]](note/ch2-what+is+os.pdf)
  - c.f. lecture notes of the 2023 class
     * https://github.com/hongshin/OperatingSystem/tree/2023spring/notes
 
