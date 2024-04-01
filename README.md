@@ -19,6 +19,8 @@
 * I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
+ - Proportional-share Scheduler (Ch. 9) [\[pdf\]](note/ch9-propshare.pdf)
+ - Multi-level Feedback Queue Scheduler (Ch. 8) [\[pdf\]](note/ch8-mlfq.pdf)
  - Scheduling Basics (Ch. 7) [\[pdf\]](note/ch7-scheduling.pdf)
  - Process (Ch. 4 and Ch. 6) [\[pdf\]](note/ch4+6-process.pdf)
  - What is Operating System (Ch. 2) [\[pdf\]](note/ch2-what+is+os.pdf)
