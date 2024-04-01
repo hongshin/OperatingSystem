@@ -28,9 +28,10 @@
 **Reading Group**
  * peer evaluation form (TBA)
  * schedule
- 	- Week 4. Chapters 7 and 8
-	- Week 3. Chapters 6
-	- Week 2. Chapters 4 and 5
+    - Week 5. IPC tutorials [Signal (1/2)](https://youtu.be/ODixeqqD-Kc) [Signal (2/2)](https://youtu.be/SDGDTNo3cUs) [Pipe (1/2)](https://youtu.be/8v1f6S4JTY0) [Pipe (2/2)](https://youtu.be/Lj_eBZCiIEo)
+    - Week 4. Chapters 7 and 8
+    - Week 3. Chapters 6
+    - Week 2. Chapters 4 and 5
 
 **Lecture Videos**
 In last couple of years, I have taught basics of system programming and operating system in multiple computer science courses, and fortunately, I kept some records of them in YouTube. 
