@@ -68,7 +68,9 @@ char * get_file (char * path) {
 }
 
 int main() {
-	char path[1024] = { 0 };
+	char * path ;
+	path = (char *) malloc(sizeof(char) * 1024) ;
+	//char path[1024] = { 0 };
 	read_a_line(path);
 
 	char * dir = (char *) malloc (sizeof(char) * (strlen(path) + 1));
@@ -78,5 +80,6 @@ int main() {
 	char * file = get_file(path);
 	printf("%s\n", file);
 
+	free(path) ;
 	free(dir);
 }
