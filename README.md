@@ -27,6 +27,10 @@
  - c.f. lecture notes of the 2023 class
     * https://github.com/hongshin/OperatingSystem/tree/2023spring/notes
 
+**Assingments**
+ - Homework 1. Autojudge [\[description\]](assignments/homework1/homework1-r1.pdf) [\[test\]](assignments/homework1/example)
+
+
 **Reading Group**
  * peer evaluation form (TBA)
  * schedule
