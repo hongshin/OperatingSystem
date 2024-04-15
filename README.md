@@ -19,6 +19,8 @@
 * I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
+ - Segmentation (Ch. 16 and Ch. 17) [\[pdf\]](note/ch16+17-segmentation.pdf)
+ - Virtual Memory (Ch. 13 and Ch. 15) [\[pdf\]](note/ch13+15-vm.pdf)
  - Proportional-share Scheduler (Ch. 9) [\[pdf\]](note/ch9-propshare.pdf)
  - Multi-level Feedback Queue Scheduler (Ch. 8) [\[pdf\]](note/ch8-mlfq.pdf)
  - Scheduling Basics (Ch. 7) [\[pdf\]](note/ch7-scheduling.pdf)
@@ -34,7 +36,9 @@
 **Reading Group**
  * peer evaluation form (TBA)
  * schedule
-    - Week 5. IPC tutorials [Signal (1/2)](https://youtu.be/ODixeqqD-Kc) [Signal (2/2)](https://youtu.be/SDGDTNo3cUs) [Pipe (1/2)](https://youtu.be/8v1f6S4JTY0) [Pipe (2/2)](https://youtu.be/Lj_eBZCiIEo)
+	- Week 7. 
+	- Week 6. Chapters 
+	- Week 5. IPC tutorials [Signal (1/2)](https://youtu.be/ODixeqqD-Kc) [Signal (2/2)](https://youtu.be/SDGDTNo3cUs) [Pipe (1/2)](https://youtu.be/8v1f6S4JTY0) [Pipe (2/2)](https://youtu.be/Lj_eBZCiIEo)
     - Week 4. Chapters 7 and 8
     - Week 3. Chapters 6
     - Week 2. Chapters 4 and 5
