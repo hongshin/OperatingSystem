@@ -1,6 +1,7 @@
 #include <unistd.h>
 #include <stdio.h>
 #include <stdint.h>
+#include <stdlib.h>
 #include "smalloc.h" 
 
 smheader_ptr smlist = 0x0 ;
