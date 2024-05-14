@@ -49,7 +49,7 @@ int main ()
 	smdump() ;
 
 	p6 = smalloc_mode(500, bestfit) ;
-	printf("smalloc_mode(p6, bestfit):%p\n", p6) ;
+	printf("smalloc_mode(500, bestfit):%p\n", p6) ;
 	smdump() ;
 	
 }
