@@ -45,7 +45,7 @@ int main ()
 	smdump();
 
 	p5 = smalloc_mode(2500, firstfit) ;
-	printf("smalloc_mode(p5, firstfit):%p\n", p5) ;
+	printf("smalloc_mode(2500, firstfit):%p\n", p5) ;
 	smdump() ;
 	
 }
