@@ -41,7 +41,7 @@ int main ()
 	smdump() ;
 
 	p6 = smalloc_mode(2000, worstfit) ;
-	printf("smalloc_mode(1000, worstfit):%p\n", p6) ;
+	printf("smalloc_mode(2000, worstfit):%p\n", p6) ;
 	smdump() ;
 
 	p7 = smalloc_mode(1500, worstfit) ;
