@@ -31,6 +31,8 @@
     * https://github.com/hongshin/OperatingSystem/tree/2023spring/notes
 
 **Assingments**
+ - Homework 3. Multithreaded Mergesort [\[description\]](assignments/homework3/homework3.pdf) [\[code\]](assignments/homework3)
+ - Homework 2. Smalloc: Simple Malloc Library
  - Homework 1. Autojudge [\[description\]](assignments/homework1/homework1-r1.pdf) [\[test\]](assignments/homework1/example)
 
 
@@ -40,9 +42,9 @@
 	- Week 7. 
 	- Week 6. Chapters 
 	- Week 5. IPC tutorials [Signal (1/2)](https://youtu.be/ODixeqqD-Kc) [Signal (2/2)](https://youtu.be/SDGDTNo3cUs) [Pipe (1/2)](https://youtu.be/8v1f6S4JTY0) [Pipe (2/2)](https://youtu.be/Lj_eBZCiIEo)
-    - Week 4. Chapters 7 and 8
-    - Week 3. Chapters 6
-    - Week 2. Chapters 4 and 5
+	- Week 4. Chapters 7 and 8
+	- Week 3. Chapters 6
+	- Week 2. Chapters 4 and 5
 
 **Lecture Videos**
 In last couple of years, I have taught basics of system programming and operating system in multiple computer science courses, and fortunately, I kept some records of them in YouTube. 
