@@ -19,7 +19,10 @@
 * I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
+ - Files and Directories (Chapter 39) [\[pdf]](note/ch39-files+dirs.pdf)
+ - I/O device and Hard Disk Drive (Ch. 36 and Ch. 37) [\[pdf\]](note/ch36+37-iodevices+hdd.pdf)
  - Conditional Variable and Semaphore (Ch. 30) [\[pdf\]](note/ch30-cv+semaphore.pdf)
+ - Concurrent Data Structure (Ch. 29) [\[pdf\]](note/ch9-concurrent-datastructure.pdf)
  - Multithreading (Ch. 26) [\[pdf\]](note/ch26-multithreading.pdf)
  - Swapping (Ch. 21 and Ch. 22) [\[pdf\]](note/ch21+22-swapping.pdf)
  - Page Table (Ch. 20) [\[pdf\]](note/ch20-page+table.pdf)
@@ -35,8 +38,9 @@
     * https://github.com/hongshin/OperatingSystem/tree/2023spring/notes
 
 **Assingments**
+ - Homework 4. Multithreaded N-Queen Solver [\[description\]](assignments/homework4/homework4.pdf) [\[code\]](assignments/homework4)
  - Homework 3. Multithreaded Mergesort [\[description\]](assignments/homework3/homework3.pdf) [\[code\]](assignments/homework3)
- - Homework 2. Smalloc: Simple Malloc Library
+ - Homework 2. Smalloc: Simple Malloc Library [\[description\]](assignments/homework2/homework2.pdf) [\[code\]](assignments/homework2)
  - Homework 1. Autojudge [\[description\]](assignments/homework1/homework1-r1.pdf) [\[test\]](assignments/homework1/example)
 
 
