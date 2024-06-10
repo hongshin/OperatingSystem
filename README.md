@@ -19,7 +19,8 @@
 * I will revise and use some of the lectures slides that I had used in the previous classes. These [lecture notes](https://github.com/hongshin/OperatingSystem/tree/2020spring) are based on [Operating System Concepts, 10/E, International Student Version](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166) authored by Abraham Silbershatz, Peter B. Galvin and Greg Gagne. 
 
 **Lecture Notes**
- - Files and Directories (Chapter 39) [\[pdf]](note/ch39-files+dirs.pdf)
+ - File System Implementation (Ch. 40 and Ch. 41) [\[pdf\]](note/ch40+41-fs+impl.pdf)
+ - Files and Directories (Ch. 39) [\[pdf\]](note/ch39-files+dirs.pdf)
  - I/O device and Hard Disk Drive (Ch. 36 and Ch. 37) [\[pdf\]](note/ch36+37-iodevices+hdd.pdf)
  - Conditional Variable and Semaphore (Ch. 30) [\[pdf\]](note/ch30-cv+semaphore.pdf)
  - Concurrent Data Structure (Ch. 29) [\[pdf\]](note/ch9-concurrent-datastructure.pdf)
